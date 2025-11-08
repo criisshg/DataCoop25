@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar el CSV
-df = pd.read_csv("DataCoop25/RentaMedia_limpio.csv", sep=',', encoding='utf-8')
+df = pd.read_csv("RentaMedia_limpio.csv", sep=',', encoding='utf-8')
 
 print(df.columns)
 # Ordenar los datos de manera descendente por la columna 'Total' y seleccionar los primeros 10
