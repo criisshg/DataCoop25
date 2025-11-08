@@ -1,0 +1,95 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Leer el archivo CSV
+df = pd.read_csv('alquiler_municipio.csv', encoding='utf-8')
+
+# Renombrar las columnas para facilitar el manejo
+columns = ['Localización', 'Precio_m2', 'Variacion_mensual', 'Variacion_trimestral', 
+           'Variacion_anual', 'Maximo_historico', 'Variacion_maximo']
+df.columns = columns
+
+# Filtrar solo las filas que contienen 'provincias', 'Región', o 'Comunidad' en la columna 'Localización'
+df = df[df['Localización'].str.contains('provincia', case=False, na=False)]
+
+# Eliminar el símbolo de € y convertir a valor numérico
+df['Precio_m2'] = df['Precio_m2'].str.replace(' €/m2', '').astype(float)
+
+# Eliminar la palabra 'provincia' de los nombres de las localizaciones
+df['Localización'] = df['Localización'].str.replace(' provincia', '', case=False)
+
+# Ordenar los valores por precio por metro cuadrado
+df_sorted = df.sort_values('Precio_m2')
+
+# Top 10 más baratos
+df_top_10_baratos = df_sorted.head(10)
+
+# Top 10 más caros
+df_top_10_caros = df_sorted.tail(10)
+
+# Crear el gráfico para los 10 más baratos
+plt.figure(figsize=(15, 8))
+sns.set_theme(style="whitegrid")  # Usar un estilo de fondo blanco con cuadrícula
+bar_plot = sns.barplot(data=df_top_10_baratos, x='Localización', y='Precio_m2', palette='viridis')
+
+# Título y etiquetas con tamaño ajustado
+plt.title('Top 10 Ubicaciones Más Baratas por m²', fontsize=18)
+plt.xlabel('Localización', fontsize=14)
+plt.ylabel('Precio/m²', fontsize=14)
+
+# Rotar las etiquetas del eje X
+plt.xticks(rotation=45, ha='right', fontsize=12)
+
+# Añadir valores encima de las barras con un tamaño de fuente mayor
+for p in bar_plot.patches:
+    bar_plot.annotate(f'{p.get_height():.2f} €', 
+                      (p.get_x() + p.get_width() / 2., p.get_height()), 
+                      ha='center', va='center', 
+                      fontsize=14, color='black', 
+                      xytext=(0, 5), textcoords='offset points')
+
+# Mejorar la legibilidad con un fondo y líneas de la cuadrícula
+plt.grid(True, axis='y', linestyle='--', alpha=0.7)
+
+# Ajustar la visualización para evitar que se corten las etiquetas
+plt.tight_layout()
+
+# Mostrar la gráfica
+plt.show()
+
+# Crear el gráfico para los 10 más caros
+plt.figure(figsize=(15, 8))
+bar_plot = sns.barplot(data=df_top_10_caros, x='Localización', y='Precio_m2', palette='viridis')
+
+# Título y etiquetas con tamaño ajustado
+plt.title('Top 10 Ubicaciones Más Caras por m²', fontsize=18)
+plt.xlabel('Localización', fontsize=18)
+plt.ylabel('Precio/m²', fontsize=18)
+
+# Rotar las etiquetas del eje X
+plt.xticks(rotation=45, ha='right', fontsize=12)
+
+# Añadir valores encima de las barras con un tamaño de fuente mayor
+for p in bar_plot.patches:
+    bar_plot.annotate(f'{p.get_height():.2f} €', 
+                      (p.get_x() + p.get_width() / 2., p.get_height()), 
+                      ha='center', va='center', 
+                      fontsize=14, color='black', 
+                      xytext=(0, 5), textcoords='offset points')
+
+# Mejorar la legibilidad con un fondo y líneas de la cuadrícula
+plt.grid(True, axis='y', linestyle='--', alpha=0.7)
+
+# Ajustar la visualización para evitar que se corten las etiquetas
+plt.tight_layout()
+
+# Mostrar la gráfica
+plt.show()
+
+# Imprimir los 10 más baratos y los 10 más caros
+print("\nTop 10 provincias más económicas por m²:")
+print(df_top_10_baratos[['Localización', 'Precio_m2 (€)']].to_string(index=False))
+
+print("\nTop 10 provincias más caras por m²:")
+print(df_top_10_caros[['Localización', 'Precio_m2 (€)']].to_string(index=False))
