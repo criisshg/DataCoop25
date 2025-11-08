@@ -19,7 +19,7 @@ df['Precio_m2'] = df['Precio_m2'].str.replace(' €/m2', '').astype(float)
 # Eliminar la palabra 'provincia' de los nombres de las localizaciones
 df['Localización'] = df['Localización'].str.replace(' provincia', '', case=False)
 
-# Ordenar los valores por precio por metro cuadrado
+# Ordenar los valores por precio por m²
 df_sorted = df.sort_values('Precio_m2')
 
 # Top 10 más baratos
@@ -29,14 +29,14 @@ df_top_10_baratos = df_sorted.head(10)
 df_top_10_caros = df_sorted.tail(10)
 
 # Configuración de Streamlit
-st.title('Análisis de Precios por Metro Cuadrado')
+st.title('Análisis de Precios por m² en Provincias')
 
 # Visualización del gráfico para los 10 más baratos
-st.subheader('Top 10 Ubicaciones Más Baratas por Metro Cuadrado')
+st.subheader('Top 10 Ubicaciones Más Baratas por m²')
 fig1 = px.bar(df_top_10_baratos, 
               x='Localización', 
               y='Precio_m2', 
-              title='Top 10 Ubicaciones Más Baratas por Metro Cuadrado',
+              title='Top 10 Ubicaciones Más Baratas por m²',
               labels={'Precio_m2': 'Precio/m²', 'Localización': 'Localización'},
               color='Precio_m2', 
               color_continuous_scale='viridis',
@@ -49,11 +49,11 @@ fig1.update_layout(title_font_size=20, xaxis_tickangle=-45, xaxis_title_font_siz
 st.plotly_chart(fig1)
 
 # Visualización del gráfico para los 10 más caros
-st.subheader('Top 10 Ubicaciones Más Caras por Metro Cuadrado')
+st.subheader('Top 10 Ubicaciones Más Caras por m²')
 fig2 = px.bar(df_top_10_caros, 
               x='Localización', 
               y='Precio_m2', 
-              title='Top 10 Ubicaciones Más Caras por Metro Cuadrado',
+              title='Top 10 Ubicaciones Más Caras por m²',
               labels={'Precio_m2': 'Precio/m²', 'Localización': 'Localización'},
               color='Precio_m2', 
               color_continuous_scale='viridis',
