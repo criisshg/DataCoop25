@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Leer el archivo CSV
-df = pd.read_csv('alquiler_municipio.csv', encoding='utf-8')
+df = pd.read_csv(r'C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\alquiler\alquiler_municipio.csv', encoding='utf-8')
 
 # Renombrar las columnas para facilitar el manejo
 columns = ['Localización', 'Precio_m2', 'Variacion_mensual', 'Variacion_trimestral', 
@@ -109,7 +109,7 @@ with col2:
 # ----------------------- GRAFICAS RENTA -----------------------
 
 # Leer el archivo CSV de renta
-df_renta = pd.read_csv("RentaMedia_limpio.csv", sep=',', encoding='utf-8')
+df_renta = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\10RENTAS\RentaMedia_limpio.csv", sep=',', encoding='utf-8')
 
 # Ordenar los datos de manera descendente por la columna 'Total' y seleccionar los primeros 10
 df_renta_top10 = df_renta.sort_values(by='Total', ascending=False).head(10)

@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Leer el archivo CSV
-df = pd.read_csv('alquiler_municipio.csv', encoding='utf-8')
+df = pd.read_csv('/alquiler/alquiler_municipio.csv', encoding='utf-8')
 
 # Renombrar las columnas para facilitar el manejo
 columns = ['Localización', 'Precio_m2', 'Variacion_mensual', 'Variacion_trimestral', 
