@@ -7,7 +7,7 @@ Aquest repositori conté el desenvolupament complet del repte de Caixa Enginyers
 
 ## Procés de treball
 **1. Recollida i neteja de dades**
-Hem recopilat dades obertes de fonts com l’INE, OCDE i portals municipals.
+Hem recopilat dades obertes de fonts com l’INE i altres portals oficials.
 
 Les variables clau inclouen: població, renda mitjana, cost de lloguer, presència d’entitats financeres, i indicadors d’inclusió.
 
@@ -41,7 +41,5 @@ El model permet simular escenaris futurs i planificar l’expansió territorial 
 
 ## Resultats
 Dashboard interactiu amb mapes i gràfics que mostren la distribució territorial del score.
-
-Informe executiu amb les 3 ubicacions prioritzades i les recomanacions estratègiques.
 
 Model de propensió que pot ser reutilitzat per a noves zones o escenaris.
