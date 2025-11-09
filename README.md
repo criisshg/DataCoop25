@@ -1,9 +1,9 @@
 # DataCoop25
-Repositorio con el que participamos en el Uab The Hack 2025
+Equip compost per Cristina Huanca, Lucas, Maria Siles i Clara Priego, estudiants d'enginyeria de dades de la UAB.
 
 
 ## Descripció del projecte
-Aquest repositori conté el desenvolupament complet del projecte DataCoop25, en el marc del repte proposat per UAB The Hack 2025. L’objectiu ha estat identificar ubicacions prioritàries per a l’expansió territorial d’una entitat cooperativa, equilibrant criteris de sostenibilitat econòmica i impacte social.
+Aquest repositori conté el desenvolupament complet del repte de Caixa Enginyers, proposat en UAB The Hack 2025. L’objectiu ha estat identificar ubicacions prioritàries per a l’expansió territorial d’una entitat cooperativa, equilibrant criteris de sostenibilitat econòmica i impacte social.
 
 ## Procés de treball
 **1. Recollida i neteja de dades**
