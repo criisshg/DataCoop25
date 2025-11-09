@@ -278,3 +278,96 @@ st.markdown("""
 
 
 # ----------------------- parte 2 -----------------------
+import plotly.graph_objects as go
+
+# Cargar los archivos CSV
+df_2026 = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2026\municipios_priorizados_2026.csv")
+df_poblacion = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\datosfuturos\municipios_predicciones.csv")
+df_renta = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\datosfuturos\prediccion_renta.csv")
+
+# Seleccionar los 10 municipios con mayor score en 2026
+top_municipios = df_2026.sort_values(by="score_total", ascending=False).head(10)
+nombres = top_municipios["NOMBRE"].tolist()
+provincias = top_municipios["PROVINCIA"].tolist()
+anios = [str(a) for a in [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2026, 2028, 2030]]
+
+# Gráfica de población
+fig1 = go.Figure()
+
+for municipio in nombres:
+    fila = df_poblacion[df_poblacion["Municipios"] == municipio]
+    if not fila.empty:
+        fig1.add_trace(go.Scatter(
+            x=anios,
+            y=fila.iloc[0][anios],
+            mode='lines+markers',
+            name=municipio
+        ))
+
+fig1.update_layout(
+    title="Evolución de la población (2015–2030)",
+    xaxis_title="Años",
+    yaxis_title="Habitantes",
+    template="plotly_dark"
+)
+
+# Gráfica de renta
+fig2 = go.Figure()
+
+for provincia in provincias:
+    fila = df_renta[df_renta["Provincias"] == provincia]
+    if not fila.empty:
+        fig2.add_trace(go.Scatter(
+            x=anios,
+            y=fila.iloc[0][anios],
+            mode='lines+markers',
+            name=provincia
+        ))
+
+fig2.update_layout(
+    title="Evolución de la renta por provincia (2015-2030)",
+    xaxis_title="Años",
+    yaxis_title="Renta (€)",
+    template="plotly_dark"
+)
+
+# Mostrar en Streamlit
+st.header('Evolución de Población y Renta en Municipios Prioritarios (2015-2030)')
+st.subheader("""Análisis de la evolución de la población y la renta en los municipios priorizados para la expansión bancaria. Se presentan gráficas que muestran las tendencias desde 2015 hasta 2030, destacando los municipios con mayor potencial.""")
+
+# Mostrar las gráficas en Streamlit
+col1, col2 = st.columns(2)
+with col1:
+    st.plotly_chart(fig1)  # Muestra la gráfica de población
+with col2:
+    st.plotly_chart(fig2)  # Muestra la gráfica de renta
+
+
+"""
+# ----------------------- HEATMAPS -----------------------
+# Cargar los archivos CSV para los diferentes años
+df_2026 = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2026\municipios_priorizados_2026.csv")
+df_2028 = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2028\municipios_priorizados_2028.csv")
+df_2030 = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2030\municipios_priorizados_2030.csv")
+
+# plots de heatmaps
+
+st.header('Mapas de Calor de Municipios Prioritarios por Año (26-28-30)')
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.subheader('Año 2026')
+    st.components.v1.html(open("heatmap2026.html", "r").read(), height=600)
+with col2:
+    st.subheader('Año 2028')
+    html_file_path_2028 = r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2028\mapa_heatmap_2028.html"
+    with open(html_file_path_2028, "r", encoding="utf-8") as file:
+        html_content_2028 = file.read()
+    st.components.v1.html(html_content_2028, height=500)
+with col3:
+    st.subheader('Año 2030')
+    html_file_path_2030 = r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2030\mapa_heatmap_2030.html"
+    with open(html_file_path_2030, "r", encoding="utf-8") as file:
+        html_content_2030 = file.read()
+    st.components.v1.html(html_content_2030, height=500)
+"""
