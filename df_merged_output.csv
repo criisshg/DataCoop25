@@ -1,0 +1,2668 @@
+Municipio,num_bancos,poblacion,renta
+alegría dulantzi,2,2971.0,41.762
+amurrio,8,10330.0,42.818
+aramaio,2,1381.0,52.084
+asparrena,1,1611.0,37.481
+berantevilla,1,459.0,42.267
+bernedo,1,546.0,36.807
+campezo/kanpezu,5,1085.0,34.127
+zigoitia,2,1844.0,54.936
+elciego,2,955.0,40.225
+labastida/bastida,1,1565.0,34.746
+laguardia,4,1478.0,37.085
+arraia maeztu,2,822.0,41.965
+okondo,1,1194.0,39.103
+oyón oion,4,3413.0,35.832
+erriberagoitia/ribera alta,1,845.0,43.823
+urkabustaiz,2,1462.0,40.668
+valdegovía/gaubea,2,1072.0,36.623
+villabuena de álava/eskuernaga,2,290.0,29.325
+legutio,2,2086.0,45.094
+vitoria gasteiz,160,257968.0,42.117
+iruña oka/iruña de oca,2,3625.0,45.119
+albacete,80,174137.0,37.457
+almansa,1,24281.0,31.858
+casas ibáñez,2,4591.0,29.083
+caudete,1,10249.0,28.614
+fuensanta,1,287.0,23.958
+fuentealbilla,1,1799.0,27.517
+hellín,1,30812.0,28.793
+higueruela,1,1142.0,31.547
+hoya gonzalo,1,593.0,37.552
+letur,1,922.0,24.057
+lezuza,5,1305.0,27.035
+madrigueras,1,4658.0,31.299
+molinicos,2,785.0,22.71
+peñas de san pedro,2,1466.0,26.382
+riópar,3,1353.0,25.153
+"roda, la",8,15610.0,31.238
+tarazona de la mancha,1,6117.0,26.312
+tobarra,1,7947.0,26.787
+villarrobledo,1,25262.0,31.856
+villaverde de guadalimar,1,310.0,20.989
+agres,1,610.0,31.44
+alcalalí,1,1406.0,27.781
+alcoleja,1,186.0,30.274
+alcoy/alcoi,42,,
+"alfàs del pi, l'",8,20160.0,32.799
+algorfa,2,3684.0,25.84
+algueña,1,1342.0,27.429
+alicante/alacant,116,,
+almoradí,7,22464.0,28.217
+altea,19,23963.0,33.22
+aspe,9,21969.0,29.736
+banyeres de mariola,4,7307.0,33.238
+benejúzar,4,5697.0,29.657
+beniarbeig,1,2384.0,31.242
+beniardá,1,,
+benigembla,1,559.0,28.38
+benidoleig,1,1219.0,29.822
+benidorm,169,74663.0,29.146
+benijófar,3,3471.0,29.285
+benimantell,1,548.0,27.466
+benimarfull,1,447.0,39.672
+benissa,4,12317.0,32.509
+"benitachell/poble nou de benitatxell, el",1,,
+bigastro,5,7431.0,30.686
+bolulla,1,486.0,24.253
+busot,1,3629.0,32.922
+calp,10,26821.0,30.717
+callosa d'en sarrià,3,7959.0,29.912
+"campello, el",3,30600.0,35.003
+castalla,1,11622.0,30.756
+castell de castells,1,444.0,27.247
+catral,4,9423.0,28.957
+cocentaina,2,11411.0,31.946
+crevillent,2,30585.0,28.857
+quatretondeta,1,134.0,21.796
+daya nueva,1,1832.0,27.977
+dénia,39,46942.0,33.138
+dolores,6,8102.0,27.277
+elche/elx,55,,
+elda,12,53818.0,27.927
+finestrat,7,9352.0,33.102
+formentera del segura,2,4749.0,24.307
+gata de gorgos,5,6659.0,31.582
+granja de rocamora,1,2739.0,31.126
+guardamar del segura,10,18111.0,29.421
+hondón de los frailes,2,1310.0,22.493
+jacarilla,1,2122.0,30.089
+xaló,6,3042.0,29.918
+jávea/xàbia,21,,
+jijona/xixona,2,,
+monforte del cid,2,8967.0,31.762
+monóvar/monòver,1,,
+muro de alcoy,4,9345.0,31.576
+novelda,12,26213.0,31.1
+"nucia, la",12,18783.0,35.859
+ondara,6,7522.0,31.395
+orba,3,2387.0,28.895
+orihuela,74,83720.0,29.671
+parcent,1,1021.0,27.892
+pedreguer,5,8687.0,31.756
+pego,2,10632.0,30.064
+petrer,7,34076.0,29.788
+planes,1,696.0,29.213
+polop,1,5650.0,28.779
+rafal,1,4900.0,29.469
+redován,4,8285.0,29.722
+rojales,10,17162.0,26.26
+san fulgencio,7,9433.0,23.694
+sant joan d'alacant,8,25918.0,38.379
+san miguel de salinas,2,6976.0,25.715
+santa pola,19,38556.0,29.628
+san vicente del raspeig/sant vicent del raspeig,24,,
+sax,7,10172.0,29.51
+sella,3,604.0,30.403
+teulada,7,12834.0,31.407
+tibi,2,1803.0,33.721
+torrevieja,47,94803.0,24.186
+"vall d'ebo, la",1,230.0,31.568
+vall de gallinera,1,,
+"vall de laguar, la",1,903.0,27.23
+"verger, el",7,5272.0,29.752
+"villajoyosa/vila joiosa, la",10,,
+"poblets, els",1,2684.0,31.207
+pilar de la horadada,10,23844.0,30.407
+"montesinos, los",4,5682.0,27.938
+san isidro,1,2312.0,28.006
+abla,2,1272.0,26.577
+adra,10,25515.0,27.911
+albox,6,12408.0,29.714
+alhabia,1,725.0,22.488
+almería,77,202675.0,35.2
+bayárcal,2,296.0,24.76
+benizalón,1,252.0,21.628
+berja,6,12939.0,27.064
+cantoria,4,3569.0,26.682
+carboneras,13,8441.0,32.632
+cuevas del almanzora,3,15246.0,27.991
+dalías,3,4169.0,27.775
+enix,1,598.0,25.471
+fines,2,2286.0,28.207
+fondón,1,1133.0,24.506
+garrucha,6,10603.0,28.218
+huércal de almería,5,18584.0,35.212
+huércal overa,7,20609.0,33.044
+láujar de andarax,2,1658.0,
+lubrín,2,1428.0,23.605
+lucainena de las torres,1,714.0,25.174
+macael,3,5428.0,30.023
+maría,2,1195.0,26.141
+mojácar,9,7517.0,29.054
+níjar,19,33076.0,27.125
+olula del río,4,6429.0,30.201
+oria,2,2199.0,24.381
+pulpí,1,11906.0,35.449
+rioja,1,1589.0,26.355
+roquetas de mar,20,109204.0,31.886
+senés,1,278.0,26.442
+sorbas,6,2525.0,26.47
+tabernas,3,4097.0,25.946
+tahal,2,375.0,28.948
+turre,1,4209.0,23.538
+uleila del campo,1,816.0,23.821
+vera,9,19488.0,30.773
+vícar,5,28835.0,28.377
+"tres villas, las",1,574.0,24.751
+"ejido, el",20,90135.0,29.523
+arenas de san pedro,3,6438.0,27.161
+arévalo,9,7830.0,32.966
+ávila,19,58111.0,35.239
+"barco de ávila, el",9,2297.0,28.732
+"berlanas, las",1,323.0,34.754
+burgohondo,1,1249.0,25.538
+candeleda,5,5031.0,25.735
+crespos,3,482.0,34.544
+gavilanes,1,529.0,24.352
+horcajo de las torres,1,441.0,26.582
+"hoyo de pinares, el",3,2183.0,23.852
+mijares,3,731.0,24.146
+navalperal de pinares,1,826.0,24.647
+navaluenga,4,2172.0,25.743
+navarredonda de gredos,3,446.0,30.125
+navarrevisca,1,299.0,27.019
+"navas del marqués, las",3,5590.0,27.442
+palacios de goda,1,397.0,31.054
+pedro bernardo,1,758.0,23.273
+san bartolomé de pinares,1,489.0,24.744
+sanchidrián,1,708.0,28.836
+san miguel de serrezuela,1,106.0,21.594
+santa cruz del valle,2,304.0,21.929
+"tiemblo, el",1,4526.0,25.463
+ahillones,2,784.0,23.437
+alange,1,1808.0,26.212
+alburquerque,6,4998.0,24.353
+alconchel,1,1626.0,23.59
+almendralejo,19,34284.0,28.404
+azuaga,10,7595.0,26.653
+badajoz,51,150570.0,35.043
+berlanga,2,2214.0,23.546
+bienvenida,2,2021.0,25.736
+burguillos del cerro,4,2970.0,24.45
+cabeza del buey,6,4526.0,26.79
+cabeza la vaca,3,1255.0,22.343
+calera de león,4,918.0,23.778
+calzadilla de los barros,1,685.0,26.713
+campanario,2,4705.0,28.093
+carmonita,1,520.0,20.702
+castilblanco,2,844.0,23.645
+don benito,1,37728.0,31.961
+esparragosa de la serena,1,933.0,24.12
+esparragosa de lares,2,854.0,25.683
+fregenal de la sierra,3,4743.0,28.336
+fuente de cantos,7,4592.0,28.941
+fuente del arco,1,660.0,22.254
+fuentes de león,2,2158.0,21.701
+"garrovilla, la",2,2292.0,27.187
+granja de torrehermosa,3,1900.0,23.594
+guareña,6,6649.0,26.818
+helechosa de los montes,1,562.0,26.559
+herrera del duque,4,3399.0,25.913
+higuera de la serena,1,887.0,21.775
+higuera de vargas,2,1856.0,22.731
+higuera la real,3,2202.0,25.474
+jerez de los caballeros,8,9112.0,29.933
+lobón,1,2734.0,25.577
+llerena,10,5645.0,31.102
+malpartida de la serena,1,518.0,24.277
+mérida,19,59857.0,33.233
+monesterio,6,4230.0,27.147
+montijo,6,15232.0,26.891
+"nava de santiago, la",2,914.0,22.017
+oliva de la frontera,5,4936.0,24.093
+olivenza,1,11742.0,27.142
+orellana la vieja,1,2573.0,28.086
+puebla de la reina,1,695.0,22.999
+puebla del maestre,1,658.0,22.723
+puebla de sancho pérez,1,2635.0,26.323
+"roca de la sierra, la",2,1453.0,24.308
+san pedro de mérida,1,861.0,29.763
+san vicente de alcántara,5,5204.0,25.996
+segura de león,2,1792.0,23.231
+talarrubias,2,3259.0,27.286
+valdecaballeros,2,1051.0,25.446
+valverde de leganés,4,4218.0,26.536
+valverde de llerena,1,566.0,22.352
+valle de santa ana,1,1107.0,25.832
+villafranca de los barros,10,12362.0,28.89
+villagarcía de la torre,2,891.0,22.571
+villanueva del fresno,2,3274.0,24.944
+villar de rena,1,1323.0,27.011
+zafra,5,16711.0,32.407
+zahínos,3,2765.0,20.935
+valdelacalzada,3,2755.0,27.053
+alaró,1,6037.0,44.449
+alaior,11,10042.0,40.338
+alcúdia,35,21683.0,41.283
+algaida,1,6311.0,42.19
+andratx,16,12062.0,42.097
+artà,7,8387.0,41.386
+banyalbufar,1,577.0,40.906
+búger,1,1199.0,41.094
+bunyola,3,7490.0,55.338
+calvià,60,53491.0,44.188
+campanet,2,2824.0,42.724
+campos,4,12163.0,39.773
+capdepera,11,12860.0,37.212
+ciutadella de menorca,22,31941.0,41.259
+consell,2,4399.0,44.351
+deyá,2,,
+esporles,2,5252.0,54.735
+felanitx,10,18850.0,39.826
+ferreries,1,5114.0,41.539
+formentera,19,11389.0,52.443
+fornalutx,1,715.0,50.421
+eivissa,42,53717.0,50.627
+inca,6,35654.0,38.492
+lloseta,1,6456.0,39.782
+llubí,1,2505.0,41.605
+llucmajor,20,39912.0,43.71
+maó,14,30419.0,43.139
+manacor,37,47777.0,39.747
+maria de la salut,3,2397.0,39.53
+marratxí,14,40079.0,53.89
+"mercadal, es",2,6215.0,48.1
+montuïri,2,3216.0,42.191
+muro,18,8115.0,41.525
+palma,175,431521.0,45.745
+petra,3,3184.0,40.458
+pollença,13,17594.0,44.636
+porreres,5,5888.0,40.389
+"pobla, sa",4,14630.0,40.401
+sant antoni de portmany,47,28609.0,47.198
+sencelles,1,3900.0,44.008
+sant josep de sa talaia,66,29664.0,50.156
+sant joan,1,2228.0,38.272
+sant joan de labritja,2,6948.0,47.609
+sant llorenç des cardassar,20,9331.0,39.264
+sant lluís,5,7130.0,50.91
+santa eugènia,1,1899.0,47.424
+santa eulalia del río,30,,
+santa margalida,11,13757.0,39.971
+santa maría del camí,2,7623.0,48.377
+santanyí,25,12887.0,39.664
+selva,2,4294.0,41.202
+"salines, ses",8,5129.0,39.295
+sineu,4,4469.0,40.198
+sóller,16,13744.0,46.553
+son servera,11,12261.0,39.761
+valldemossa,6,2016.0,55.268
+"castell, es",2,7772.0,40.941
+vilafranca de bonany,3,3816.0,38.232
+ariany,1,1018.0,40.358
+"migjorn gran, es",5,1690.0,46.13
+abrera,3,13014.0,45.01
+alella,3,10217.0,72.328
+arenys de munt,3,9458.0,43.767
+argentona,1,12844.0,50.252
+artés,2,6084.0,40.915
+avià,2,2243.0,42.136
+avinyó,2,2313.0,41.303
+aiguafreda,2,2576.0,43.125
+badalona,37,227083.0,38.955
+bagà,3,2182.0,39.005
+balenyà,1,4036.0,38.415
+balsareny,2,3328.0,39.244
+begues,1,7462.0,63.381
+berga,3,17160.0,37.173
+bigues i riells,2,,
+cabrera de mar,2,5018.0,64.127
+cabrils,1,7767.0,72.705
+caldes d'estrac,1,3259.0,46.682
+caldes de montbui,5,18336.0,46.606
+calella,5,20369.0,34.872
+calldetenes,3,2690.0,46.702
+campins,1,606.0,50.862
+canet de mar,1,15140.0,39.506
+cànoves i samalús,1,3315.0,47.718
+castellar del vallès,13,25322.0,47.263
+castellbisbal,1,12972.0,48.579
+castelldefels,13,69450.0,51.814
+castellterçol,2,2773.0,39.606
+castellví de la marca,1,1716.0,42.621
+centelles,4,7775.0,40.568
+cervelló,2,9647.0,51.958
+cornellà de llobregat,15,91589.0,38.322
+cubelles,4,17243.0,39.572
+esplugues de llobregat,11,47613.0,47.034
+fogars de la selva,1,1680.0,39.785
+"franqueses del vallès, les",3,20715.0,42.688
+"garriga, la",4,17305.0,48.544
+gavà,5,48007.0,45.669
+gironella,4,5055.0,36.881
+"granada, la",2,2263.0,44.787
+granollers,23,64181.0,42.757
+guardiola de berguedà,2,953.0,32.463
+"hospitalet de llobregat, l'",42,279993.0,36.526
+"llagosta, la",2,13085.0,36.148
+llinars del vallès,3,10740.0,45.776
+malgrat de mar,1,19377.0,36.135
+manresa,20,80201.0,37.68
+martorell,4,28507.0,42.058
+"masnou, el",3,24479.0,49.645
+masquefa,1,10038.0,42.794
+matadepera,2,9815.0,85.692
+mataró,25,131798.0,38.499
+molins de rei,8,26948.0,47.436
+mollet del vallès,14,52283.0,39.648
+montcada i reixac,7,37153.0,39.356
+montgat,2,12625.0,46.935
+monistrol de montserrat,3,3198.0,35.807
+montmajor,1,472.0,39.683
+montmeló,2,8906.0,41.588
+montornès del vallès,1,17089.0,41.298
+montseny,1,380.0,46.81
+navarcles,2,6160.0,41.189
+navàs,2,6185.0,38.996
+"papiol, el",1,4363.0,45.986
+piera,3,17555.0,39.233
+pineda de mar,4,29455.0,34.538
+"pobla de lillet, la",2,1109.0,34.787
+polinyà,1,8555.0,44.221
+"prat de llobregat, el",19,66184.0,41.138
+prats de lluçanès,3,2688.0,41.607
+ripollet,6,39462.0,37.926
+rubí,11,81532.0,40.881
+sabadell,26,222177.0,40.323
+santpedor,1,7716.0,47.067
+sant adrià de besòs,4,38490.0,36.148
+sant andreu de la barca,5,27062.0,41.76
+sant boi de llobregat,19,84831.0,40.324
+sant celoni,5,18761.0,41.656
+sant cebrià de vallalta,1,3828.0,41.577
+sant cugat del vallès,27,98621.0,74.951
+sant cugat sesgarrigues,1,1031.0,48.642
+sant esteve sesrovires,1,8060.0,53.283
+sant feliu de codines,4,6661.0,41.251
+sant feliu de llobregat,2,46554.0,46.453
+sant feliu sasserra,2,629.0,42.196
+sant fruitós de bages,2,9248.0,48.609
+sant joan despí,1,35083.0,48.757
+sant joan de vilatorrada,7,11017.0,40.662
+vilassar de mar,9,21162.0,51.548
+sant pere de ribes,3,32121.0,41.892
+sant pere de riudebitlles,1,2497.0,40.729
+sant pere de torelló,1,2592.0,41.616
+sant pol de mar,3,5834.0,47.301
+sant quintí de mediona,1,2504.0,36.161
+sant quirze del vallès,4,20161.0,62.048
+sant sadurní d'anoia,1,12915.0,46.009
+santa coloma de cervelló,5,8335.0,52.238
+santa coloma de gramenet,24,121203.0,34.161
+santa eulàlia de ronçana,2,7911.0,47.38
+santa margarida de montbui,6,10549.0,34.014
+santa margarida i els monjos,1,7736.0,38.226
+barberà del vallès,7,33575.0,43.314
+santa maria d'oló,2,1077.0,38.69
+santa maria de palautordera,3,10008.0,44.311
+santa perpètua de mogoda,2,25960.0,43.064
+santa susanna,3,4023.0,43.796
+sant vicenç dels horts,9,28568.0,42.529
+cerdanyola del vallès,24,58100.0,46.621
+cercs,2,1193.0,34.696
+seva,2,3798.0,49.171
+sitges,11,32405.0,51.676
+taradell,2,6844.0,47.293
+terrassa,14,228708.0,40.058
+teià,1,6818.0,65.106
+tiana,3,9305.0,65.678
+tona,1,8511.0,45.653
+tordera,1,18780.0,35.762
+torrelles de foix,1,2657.0,32.326
+torrelles de llobregat,2,6155.0,51.668
+vacarisses,1,7563.0,46.087
+vallbona d'anoia,2,1406.0,40.788
+vallirana,4,15985.0,47.243
+vic,18,49530.0,42.616
+viladecavalls,1,7802.0,54.329
+viladecans,1,67348.0,42.887
+vilanova del camí,2,12844.0,35.538
+vilafranca del penedès,3,41504.0,39.684
+vilalba sasserra,1,780.0,38.565
+vilanova i la geltrú,30,70418.0,41.375
+rupit i pruit,1,281.0,43.624
+"palma de cervelló, la",4,3044.0,49.631
+aranda de duero,25,33757.0,34.938
+arcos,2,1835.0,42.694
+arija,1,115.0,25.698
+belorado,5,1834.0,30.84
+briviesca,6,6560.0,30.813
+burgos,101,175895.0,38.815
+caleruega,3,400.0,38.894
+cardeñadijo,2,1430.0,38.648
+castildelgado,1,35.0,32.423
+castrojeriz,3,778.0,30.961
+cerezo de río tirón,3,490.0,33.961
+cilleruelo de abajo,1,209.0,28.548
+condado de treviño,3,1489.0,32.75
+covarrubias,2,505.0,33.214
+espinosa de los monteros,5,1648.0,27.51
+estépar,4,634.0,36.407
+frías,1,270.0,29.13
+gumiel de izán,3,584.0,37.287
+hontoria del pinar,3,610.0,32.205
+huerta de rey,3,881.0,30.861
+ibeas de juarros,2,1445.0,38.86
+lerma,6,2556.0,31.705
+mecerreyes,2,188.0,34.449
+medina de pomar,5,5997.0,29.328
+melgar de fernamental,3,1513.0,31.736
+merindad de valdeporres,2,421.0,28.571
+milagros,1,415.0,38.856
+miranda de ebro,22,36018.0,35.58
+montorio,1,149.0,43.961
+oña,4,951.0,30.836
+palacios de la sierra,2,675.0,30.088
+pampliega,1,291.0,71.076
+pancorbo,3,437.0,31.86
+peñaranda de duero,3,465.0,30.532
+pradoluengo,5,1070.0,32.151
+"puebla de arganzón, la",2,557.0,35.265
+quintanar de la sierra,4,1513.0,30.24
+quintanilla vivar,1,885.0,44.729
+roa,3,2244.0,31.143
+salas de los infantes,4,1984.0,33.147
+santa maría del campo,3,523.0,33.98
+santo domingo de silos,1,247.0,42.231
+sasamón,3,912.0,34.591
+tardajos,3,864.0,39.799
+tordómar,1,298.0,37.035
+torresandino,1,574.0,44.245
+tórtoles de esgueva,1,387.0,32.762
+trespaderne,3,713.0,29.745
+vadocondes,1,364.0,36.066
+valle de mena,4,4140.0,30.031
+valle de tobalina,3,863.0,30.11
+valle de valdebezana,2,482.0,25.951
+vilviestre del pinar,1,504.0,33.957
+villadiego,4,1455.0,34.818
+villafranca montes de oca,1,122.0,29.202
+villafruela,1,143.0,24.19
+villagonzalo pedernales,1,1882.0,44.253
+villahoz,1,287.0,35.697
+villaquirán de los infantes,2,138.0,40.924
+valle de santibáñez,3,479.0,34.418
+villarcayo de merindad de castilla la vieja,5,4047.0,29.215
+valle de sedano,2,409.0,38.887
+merindad de río ubierna,3,1411.0,40.971
+alfoz de quintanadueñas,1,2133.0,40.765
+valle de losa,2,496.0,25.584
+acebo,2,576.0,20.851
+ahigal,2,1349.0,21.135
+alcántara,4,1347.0,29.405
+alcuéscar,3,2454.0,24.599
+aldeacentenera,2,593.0,25.116
+aldeanueva de la vera,6,1997.0,23.429
+aldeanueva del camino,1,704.0,24.325
+alía,1,746.0,23.13
+arroyo de la luz,5,5520.0,26.707
+baños de montemayor,1,737.0,27.437
+bohonal de ibor,1,503.0,23.41
+brozas,1,1746.0,26.371
+cabezuela del valle,2,2127.0,20.974
+cáceres,49,96441.0,35.881
+caminomorisco,2,1120.0,24.115
+cañamero,5,1601.0,22.847
+casar de cáceres,4,4477.0,29.536
+casas del castañar,2,578.0,22.042
+casas del monte,1,768.0,23.265
+casatejada,1,1382.0,27.257
+castañar de ibor,1,1032.0,21.289
+cilleros,2,1555.0,21.318
+coria,7,12114.0,27.805
+cuacos de yuste,4,829.0,29.189
+eljas,2,836.0,20.267
+galisteo,1,835.0,24.183
+garganta la olla,2,883.0,22.148
+garrovillas de alconétar,1,1959.0,23.102
+gata,1,1353.0,21.869
+guadalupe,4,1752.0,24.891
+hervás,4,3921.0,25.857
+hinojal,1,388.0,25.697
+hoyos,1,858.0,22.392
+jaraicejo,1,436.0,25.092
+jaraíz de la vera,9,6720.0,27.031
+jarandilla de la vera,7,2845.0,27.457
+jerte,1,1200.0,20.915
+logrosán,6,1903.0,24.537
+losar de la vera,3,2805.0,24.727
+madrigalejo,3,1708.0,22.967
+madroñera,3,2364.0,22.739
+malpartida de cáceres,4,4030.0,31.808
+malpartida de plasencia,6,4673.0,30.05
+mata de alcántara,1,286.0,26.804
+mirabel,2,632.0,24.448
+monroy,1,884.0,22.735
+montánchez,1,1608.0,24.955
+montehermoso,6,5586.0,25.638
+moraleja,2,6578.0,25.236
+navaconcejo,4,2044.0,20.784
+nuñomoral,1,1202.0,21.281
+pasarón de la vera,1,592.0,27.11
+pinofranqueado,1,1763.0,22.79
+piornal,3,1454.0,21.734
+plasencia,24,39829.0,31.781
+pozuelo de zarzón,1,428.0,20.779
+salorino,1,537.0,23.467
+santibáñez el bajo,1,710.0,21.858
+serradilla,2,1482.0,22.378
+sierra de fuentes,2,2056.0,31.415
+talaván,1,769.0,24.623
+torre de don miguel,2,476.0,22.11
+torrejoncillo,1,2765.0,25.05
+torrejón el rubio,1,535.0,21.863
+torreorgaz,2,1676.0,29.88
+trujillo,8,8619.0,28.426
+valdefuentes,1,1100.0,26.199
+valdeobispo,1,610.0,24.917
+valencia de alcántara,7,5196.0,25.922
+valverde de la vera,1,448.0,23.699
+valverde del fresno,5,2121.0,22.743
+villamiel,1,379.0,21.876
+villanueva de la sierra,1,493.0,21.514
+villanueva de la vera,2,2110.0,23.897
+alagón del río,1,909.0,27.73
+algeciras,21,124978.0,34.017
+algodonales,3,5443.0,24.194
+arcos de la frontera,4,31046.0,27.513
+barbate,9,22709.0,27.653
+"barrios, los",5,24404.0,37.473
+benaocaz,1,754.0,25.134
+"bosque, el",1,2249.0,29.801
+cádiz,46,110914.0,37.427
+conil de la frontera,15,23996.0,30.014
+chiclana de la frontera,22,89794.0,31.566
+espera,2,3777.0,25.9
+"gastor, el",2,1698.0,25.016
+grazalema,3,1998.0,26.03
+jerez de la frontera,26,213688.0,32.215
+jimena de la frontera,3,6695.0,28.193
+"línea de la concepción, la",13,64177.0,30.863
+medina sidonia,4,11764.0,27.591
+olvera,11,7864.0,27.339
+paterna de rivera,2,5505.0,25.56
+"puerto de santa maría, el",13,89960.0,35.87
+puerto real,5,42151.0,33.827
+rota,10,29552.0,32.841
+san fernando,17,93645.0,34.258
+sanlúcar de barrameda,9,69876.0,27.874
+san roque,18,34190.0,38.428
+setenil de las bodegas,2,2624.0,25.55
+tarifa,22,18664.0,33.275
+torre alháquime,2,798.0,22.814
+ubrique,1,16439.0,30.292
+vejer de la frontera,7,12915.0,27.537
+villaluenga del rosario,1,462.0,26.649
+san josé del valle,2,4472.0,24.021
+atzeneta del maestrat,3,1309.0,32.221
+alcalà de xivert,7,7176.0,28.899
+"alcora, l'",2,10581.0,35.817
+almazora/almassora,11,,
+barracas,1,195.0,32.745
+betxí,2,5592.0,35.598
+bejís,1,400.0,29.071
+benicarló,5,29607.0,31.74
+benicasim/benicàssim,1,,
+benlloch,2,,
+borriol,1,5945.0,40.309
+borriana/burriana,9,36927.0,33.802
+cabanes,3,3313.0,29.728
+cabanes,3,3313.0,40.396
+cabanes,3,978.0,29.728
+cabanes,3,978.0,40.396
+càlig,3,2048.0,30.217
+canet lo roig,2,699.0,28.556
+castellfort,1,190.0,35.319
+castellón de la plana/castelló de la plana,43,,
+catí,1,760.0,33.968
+cervera del maestre,2,643.0,27.008
+cinctorres,1,442.0,31.783
+cirat,2,214.0,26.948
+"coves de vinromà, les",2,1865.0,30.457
+culla,2,493.0,27.178
+chilches/xilxes,4,3094.0,30.952
+forcall,1,477.0,33.502
+lucena del cid,3,,
+"llosa, la",1,1042.0,30.38
+montanejos,1,643.0,26.003
+navajas,1,846.0,29.262
+nules,3,14062.0,33.665
+onda,9,25817.0,34.731
+oropesa del mar/orpesa,2,,
+peníscola/peñíscola,1,8496.0,30.191
+"pobla tornesa, la",1,1325.0,40.017
+rossell,1,892.0,27.148
+"salzadella, la",1,678.0,29.371
+sant mateu,1,2004.0,33.117
+san rafael del río,1,530.0,26.443
+segorbe,2,9640.0,32.352
+sierra engarcerán,2,1043.0,30.761
+sueras/suera,1,,
+todolella,1,147.0,31.171
+torreblanca,4,5674.0,28.614
+"torre d'en besora, la",1,163.0,30.563
+"vall d'uixó, la",1,31884.0,33.242
+vallibona,1,64.0,26.601
+villafranca del cid/vilafranca,2,,
+villahermosa del río,1,490.0,30.284
+vila real,10,52505.0,37.032
+vinaròs,4,30278.0,32.231
+vistabella del maestrazgo,1,,
+viver,2,1680.0,29.061
+alquerías del niño perdido,3,,
+abenójar,1,1324.0,27.524
+albaladejo,4,1003.0,21.301
+alcázar de san juan,3,31382.0,35.133
+alcoba,1,567.0,29.588
+almadén,6,4902.0,27.632
+almagro,7,9049.0,30.554
+almuradiel,1,752.0,27.493
+arenas de san juan,2,1035.0,23.832
+ballesteros de calatrava,2,361.0,26.66
+bolaños de calatrava,6,12067.0,30.858
+campo de criptana,8,12932.0,30.801
+carrión de calatrava,2,3233.0,31.071
+ciudad real,2,75909.0,38.73
+"cortijos, los",1,847.0,27.029
+cózar,1,899.0,22.487
+daimiel,9,17645.0,30.235
+granátula de calatrava,1,686.0,26.042
+herencia,4,8459.0,28.275
+horcajo de los montes,1,795.0,24.379
+manzanares,1,17745.0,32.953
+porzuna,3,3516.0,25.701
+puertollano,10,45195.0,31.668
+retuerta del bullaque,1,867.0,27.363
+solana del pino,2,332.0,23.692
+tomelloso,8,36523.0,28.68
+torralba de calatrava,1,3075.0,27.547
+valdepeñas,19,30617.0,31.139
+villanueva de la fuente,3,1883.0,23.989
+villanueva de los infantes,6,4785.0,28.739
+villanueva de los infantes,6,4785.0,41.542
+villanueva de los infantes,6,112.0,28.739
+villanueva de los infantes,6,112.0,41.542
+villanueva de san carlos,1,272.0,35.726
+villarrubia de los ojos,1,9620.0,26.404
+villarta de san juan,1,2698.0,26.836
+viso del marqués,4,2081.0,25.35
+ruidera,1,533.0,26.338
+arenales de san gregorio,1,617.0,24.235
+llanos del caudillo,1,657.0,32.298
+adamuz,3,4091.0,25.918
+almedinilla,1,2323.0,24.494
+almodóvar del río,3,7981.0,26.621
+añora,2,1503.0,31.809
+belalcázar,2,3099.0,24.565
+belmez,1,2818.0,27.695
+bujalance,5,7134.0,26.514
+cabra,8,20024.0,29.49
+cañete de las torres,2,2806.0,26.01
+carcabuey,3,2299.0,25.176
+"carlota, la",7,14381.0,28.202
+"carpio, el",2,4325.0,29.969
+castro del río,4,7612.0,28.559
+córdoba,87,322811.0,35.632
+doña mencía,3,4478.0,27.797
+dos torres,2,2365.0,27.013
+encinas reales,2,2234.0,23.897
+espejo,2,3177.0,28.426
+espiel,1,2341.0,29.186
+fernán núñez,6,9638.0,30.857
+fuente la lancha,1,339.0,21.857
+fuente palmera,7,9907.0,26.884
+guadalcázar,2,1556.0,27.591
+"guijo, el",1,346.0,30.379
+hinojosa del duque,5,6563.0,26.437
+hornachuelos,5,4390.0,26.487
+iznájar,2,3739.0,23.45
+lucena,5,43086.0,29.156
+montalbán de córdoba,4,4435.0,27.49
+montoro,6,9049.0,27.894
+moriles,4,3643.0,24.58
+obejo,1,2085.0,28.752
+palma del río,12,20546.0,28.075
+pedro abad,1,2817.0,27.146
+posadas,6,7224.0,26.727
+pozoblanco,10,16946.0,33.485
+priego de córdoba,13,21826.0,25.6
+"rambla, la",6,7438.0,29.245
+rute,1,9765.0,25.716
+san sebastián de los ballesteros,2,854.0,34.205
+santaella,7,4655.0,28.244
+santa eufemia,1,710.0,22.84
+torrecampo,2,1000.0,26.206
+"victoria, la",2,2335.0,28.111
+villa del río,5,6863.0,28.031
+villaharta,1,634.0,25.942
+villanueva de córdoba,5,8381.0,26.123
+villanueva del duque,3,1404.0,27.588
+villanueva del rey,2,1014.0,23.426
+villaralto,2,1075.0,23.958
+villaviciosa de córdoba,2,3064.0,22.559
+"viso, el",1,2511.0,26.196
+zuheros,2,608.0,26.772
+abegondo,1,5578.0,38.226
+ames,11,32812.0,38.343
+ares,2,6156.0,34.47
+arteixo,1,34038.0,35.108
+arzúa,3,5887.0,33.388
+"baña, a",1,3291.0,36.148
+bergondo,3,6986.0,43.94
+betanzos,6,13261.0,33.568
+boimorto,3,1801.0,31.496
+boiro,8,19018.0,34.194
+boqueixón,1,4200.0,38.59
+brión,1,8197.0,39.5
+cabana de bergantiños,1,4098.0,34.239
+camariñas,6,5098.0,27.748
+cambre,10,24781.0,38.161
+"capela, a",1,1182.0,38.972
+carnota,3,3800.0,29.587
+carral,6,6775.0,36.693
+cedeira,7,6548.0,28.528
+cee,4,7740.0,31.996
+cerceda,2,5085.0,38.915
+cerdido,2,1004.0,26.622
+cesuras,1,,
+coristanco,3,5744.0,32.737
+"coruña, a",148,249261.0,39.802
+culleredo,7,31085.0,36.836
+curtis,3,4181.0,33.288
+dumbría,1,2776.0,39.455
+fene,3,12530.0,34.364
+ferrol,28,64218.0,32.592
+fisterra,5,4704.0,28.808
+frades,2,2163.0,39.201
+irixoa,2,1326.0,32.168
+"laracha, a",4,11603.0,34.416
+malpica de bergantiños,3,5267.0,29.365
+mañón,1,1223.0,28.608
+mazaricos,3,3719.0,38.333
+melide,4,7734.0,29.866
+mesía,2,2383.0,35.001
+miño,4,6946.0,36.413
+moeche,2,1200.0,29.697
+monfero,1,1818.0,34.569
+mugardos,3,5195.0,32.92
+muxía,3,4380.0,30.076
+muros,7,8184.0,31.037
+narón,14,39285.0,32.992
+neda,1,4868.0,32.65
+negreira,6,6961.0,31.864
+noia,6,14092.0,33.028
+oleiros,10,38333.0,51.654
+ordes,9,12772.0,34.495
+oroso,5,7757.0,36.958
+ortigueira,7,5418.0,28.761
+outes,4,6049.0,31.673
+oza dos ríos,3,,
+paderne,1,2387.0,37.73
+padrón,3,8256.0,35.88
+"pino, o",3,4581.0,35.893
+ponteceso,6,5318.0,31.544
+pontedeume,8,7456.0,35.01
+"pontes de garcía rodríguez, as",8,9782.0,40.324
+porto do son,3,9064.0,33.029
+rianxo,7,10748.0,34.382
+ribeira,5,27111.0,34.729
+rois,1,4395.0,36.88
+sada,5,17140.0,36.064
+sada,5,17140.0,42.998
+sada,5,128.0,36.064
+sada,5,128.0,42.998
+san sadurniño,1,2733.0,31.93
+santa comba,3,9319.0,36.724
+santiago de compostela,64,99536.0,41.436
+sobrado,1,1754.0,31.703
+sobrado,1,1754.0,32.127
+sobrado,1,282.0,31.703
+sobrado,1,282.0,32.127
+"somozas, as",1,1068.0,29.629
+teo,11,19045.0,42.504
+tordoia,1,3181.0,37.851
+trazo,1,2979.0,39.24
+valdoviño,2,6857.0,34.233
+val do dubra,4,3734.0,35.102
+zas,3,4261.0,35.854
+cariño,3,3691.0,26.032
+"almarcha, la",1,423.0,25.69
+almonacid del marquesado,2,417.0,31.154
+belmonte,1,1769.0,27.735
+beteta,1,235.0,31.714
+cañaveras,1,220.0,26.083
+cañaveruelas,1,118.0,21.5
+cañete,2,843.0,28.438
+cardenete,2,474.0,23.55
+cuenca,23,53429.0,36.241
+"hinojosos, los",1,721.0,22.191
+horcajo de santiago,1,3754.0,27.73
+huete,5,1822.0,27.834
+landete,6,1215.0,27.531
+montalbanejo,1,84.0,23.384
+mota del cuervo,1,6121.0,29.131
+priego,4,925.0,27.017
+"provencio, el",3,2358.0,26.068
+quintanar del rey,3,7484.0,27.516
+saelices,2,464.0,25.902
+san lorenzo de la parrilla,2,1134.0,27.81
+tarancón,3,16462.0,33.098
+valdeolivas,1,202.0,25.061
+valverde de júcar,3,1097.0,30.979
+villaescusa de haro,1,459.0,27.946
+villagarcía del llano,2,757.0,24.086
+villalba de la sierra,1,561.0,32.61
+villarejo de fuentes,2,400.0,25.407
+alp,2,1728.0,45.453
+amer,1,2415.0,42.191
+anglès,4,5969.0,38.693
+begur,3,4245.0,46.698
+banyoles,9,20599.0,43.635
+bàscara,1,1057.0,39.466
+besalú,3,2583.0,40.477
+bescanó,3,5141.0,48.03
+"bisbal d'empordà, la",4,11683.0,36.02
+blanes,15,42198.0,34.707
+bordils,1,1804.0,47.331
+breda,3,3930.0,38.176
+cadaqués,2,2918.0,38.593
+caldes de malavella,2,8509.0,45.055
+calonge,3,,
+campdevànol,2,3262.0,40.095
+camprodon,2,2527.0,40.48
+cassà de la selva,4,10943.0,42.463
+castelló d'empúries,3,12163.0,32.988
+castell platja d'aro,5,,
+cornellà del terri,2,2390.0,50.182
+darnius,1,548.0,33.851
+"escala, l'",9,10429.0,35.951
+figueres,13,48875.0,34.155
+flaçà,1,1145.0,39.973
+girona,60,107032.0,44.772
+hostalric,1,4446.0,37.767
+"jonquera, la",3,3408.0,39.014
+llançà,2,4943.0,34.986
+lloret de mar,8,42600.0,32.636
+maçanet de cabrenys,1,772.0,33.262
+maçanet de la selva,1,7962.0,36.432
+mieres,1,349.0,36.261
+mieres,1,349.0,32.313
+mieres,1,36132.0,36.261
+mieres,1,36132.0,32.313
+navata,1,1469.0,48.263
+olot,15,38822.0,40.654
+osor,1,418.0,33.586
+palafrugell,15,24300.0,36.479
+palamós,5,18651.0,38.543
+pals,4,2556.0,43.572
+peralada,2,2047.0,50.709
+portbou,2,1082.0,33.136
+"port de la selva, el",1,1061.0,40.042
+puigcerdà,5,10008.0,39.131
+quart,1,4099.0,53.175
+ribes de freser,2,1847.0,36.787
+riells i viabrea,1,4499.0,41.252
+ripoll,6,10692.0,37.635
+riudellots de la selva,2,2142.0,49.191
+roses,7,20362.0,34.062
+salt,6,33904.0,35.569
+sant feliu de guíxols,4,23050.0,34.837
+sant feliu de pallerols,2,1692.0,46.995
+sant gregori,1,4243.0,63.025
+sant hilari sacalm,2,5982.0,36.875
+sant joan de les abadesses,3,3375.0,38.952
+sant julià de ramis,1,3644.0,53.265
+sant pere pescador,10,2241.0,37.464
+santa coloma de farners,6,13657.0,39.852
+santa pau,1,1611.0,44.066
+sant joan les fonts,1,3111.0,44.154
+sarrià de ter,3,5392.0,42.704
+"cellera de ter, la",1,2014.0,40.555
+torroella de montgrí,12,12521.0,37.274
+tortellà,1,828.0,39.334
+tossa de mar,10,6274.0,35.389
+"vall d'en bas, la",2,3219.0,50.015
+vidreres,3,8538.0,39.407
+vilabertran,1,984.0,44.601
+vilablareix,1,3772.0,57.274
+vilajuïga,1,1179.0,38.832
+sant julià del llor i bonmatí,1,1373.0,41.846
+albolote,7,19587.0,35.876
+albondón,2,712.0,21.291
+albuñán,1,422.0,26.139
+albuñol,4,7357.0,25.574
+albuñuelas,2,794.0,23.662
+aldeire,1,592.0,25.567
+alfacar,1,5784.0,32.713
+algarinejo,2,2335.0,20.238
+alhendín,2,10399.0,32.293
+almuñécar,16,27311.0,27.76
+alquife,1,557.0,28.977
+armilla,5,25405.0,34.348
+atarfe,10,20455.0,29.536
+baza,6,20562.0,30.241
+beas de granada,1,1009.0,31.756
+beas de guadix,1,316.0,23.16
+benalúa de las villas,2,1021.0,21.785
+benamaurel,1,2246.0,24.012
+bérchules,1,695.0,23.369
+bubión,1,311.0,25.546
+cacín,1,537.0,19.172
+cádiar,1,1517.0,25.488
+cájar,1,5492.0,40.827
+capileira,1,576.0,26.642
+castilléjar,3,1289.0,20.926
+castril,2,1968.0,22.762
+cenes de la vega,1,8296.0,29.839
+cogollos de la vega,1,2084.0,26.266
+cortes de baza,4,1793.0,24.904
+cortes y graena,1,966.0,24.368
+chauchina,4,5781.0,27.116
+diezma,2,810.0,23.67
+dólar,1,606.0,25.496
+dúrcal,1,7209.0,28.903
+ferreira,1,303.0,27.646
+freila,2,922.0,21.794
+galera,2,1116.0,22.477
+gójar,1,6340.0,37.006
+granada,109,232717.0,36.821
+guadahortuna,4,1830.0,20.786
+guadix,5,18725.0,30.211
+gualchos,6,5309.0,26.716
+huéneja,1,1177.0,26.994
+huéscar,1,7234.0,27.494
+huétor tájar,7,10653.0,25.38
+huétor vega,2,12294.0,38.058
+illora,2,,
+itrabo,1,,
+iznalloz,4,5154.0,23.072
+jerez del marquesado,3,,
+jete,1,995.0,25.109
+jun,1,4145.0,37.219
+juviles,1,138.0,23.655
+"calahorra, la",1,681.0,25.482
+lanjarón,4,3660.0,26.357
+lobras,1,134.0,21.901
+maracena,10,22310.0,31.679
+marchal,1,425.0,22.592
+moclín,1,3529.0,24.838
+molvízar,2,2730.0,23.929
+monachil,3,8608.0,33.632
+moraleda de zafayona,2,3127.0,24.653
+motril,28,59632.0,31.129
+nigüelas,1,1239.0,30.042
+orce,2,1148.0,22.863
+órgiva,8,5674.0,24.812
+otívar,2,1038.0,26.879
+padul,4,9536.0,30.111
+pampaneira,1,314.0,25.375
+pedro martínez,1,1147.0,20.972
+pinos genil,2,1638.0,31.763
+pinos puente,2,9708.0,23.649
+píñar,1,1060.0,27.806
+polopos,1,1671.0,24.042
+puebla de don fadrique,4,2202.0,24.094
+pulianas,2,5628.0,30.744
+purullena,2,2338.0,26.009
+quéntar,1,943.0,25.345
+salobreña,3,12660.0,27.835
+santa fe,1,15269.0,27.939
+soportújar,1,278.0,27.421
+trevélez,2,703.0,26.684
+ugíjar,2,2561.0,23.803
+válor,2,660.0,21.321
+vélez de benaudalla,3,3054.0,25.23
+ventas de huelma,1,674.0,28.566
+víznar,1,997.0,37.208
+zafarraya,4,2189.0,24.711
+"zubia, la",7,20056.0,33.833
+"taha, la",1,759.0,23.964
+nevada,1,1096.0,21.676
+alpujarra de la sierra,3,931.0,23.572
+"gabias, las",4,23318.0,30.223
+"guajares, los",2,,
+valle del zalabí,2,2122.0,27.013
+morelábor,1,587.0,22.592
+vegas del genil,5,12325.0,33.711
+cuevas del campo,2,1775.0,22.738
+alcocer,1,315.0,25.63
+alcolea del pinar,1,336.0,32.092
+anguita,1,156.0,24.905
+atienza,3,422.0,28.616
+azuqueca de henares,3,35894.0,38.994
+brihuega,2,2816.0,30.412
+"casar, el",3,13628.0,43.588
+cifuentes,3,1701.0,37.702
+cogolludo,1,554.0,31.571
+corduente,1,290.0,27.549
+galve de sorbe,1,95.0,27.081
+guadalajara,10,90909.0,39.96
+hiendelaencina,1,110.0,32.222
+maranchón,2,218.0,29.773
+marchamalo,1,8497.0,38.434
+molina de aragón,6,3280.0,30.276
+mondéjar,1,2900.0,32.664
+pastrana,4,891.0,30.647
+sacedón,1,1595.0,27.846
+sigüenza,7,4830.0,31.323
+tamajón,1,154.0,32.117
+torija,1,1764.0,37.535
+torrejón del rey,3,6324.0,37.894
+trillo,2,1396.0,47.176
+villanueva de alcorón,3,148.0,25.202
+yebes,1,5421.0,38.254
+yunquera de henares,3,4566.0,33.406
+albiztur,1,324.0,50.992
+alegia,1,1812.0,41.309
+andoain,9,14563.0,41.529
+antzuola,2,2069.0,46.211
+aretxabaleta,2,7194.0,47.636
+asteasu,1,1575.0,43.914
+azkoitia,3,11697.0,47.981
+azpeitia,14,15208.0,47.665
+beasain,10,13961.0,46.344
+berrobi,1,553.0,42.036
+bidegoian,1,,
+zegama,2,1541.0,47.184
+zestoa,3,3838.0,44.253
+deba,7,5399.0,44.628
+eibar,19,27362.0,43.246
+elgoibar,8,11585.0,46.438
+elgeta,1,1130.0,45.38
+eskoriatza,2,4241.0,47.173
+hondarribia,7,16929.0,52.046
+getaria,3,2906.0,48.406
+hernani,7,20355.0,40.58
+ibarra,2,4112.0,40.98
+irun,30,63656.0,41.388
+itsasondo,1,670.0,42.997
+lazkao,3,6055.0,47.86
+legorreta,1,1449.0,44.331
+lezo,4,6012.0,39.659
+lizartza,2,667.0,39.968
+arrasate/mondragón,11,22123.0,45.439
+mutriku,2,5281.0,43.693
+oñati,8,11537.0,50.967
+oiartzun,6,10378.0,48.851
+pasaia,11,16009.0,37.612
+soraluze/placencia de las armas,3,,
+errenteria,18,39352.0,38.8
+donostia san sebastián,115,,
+segura,2,1465.0,47.747
+tolosa,11,20109.0,47.325
+usurbil,6,6438.0,44.85
+bergara,3,14471.0,49.061
+villabona,6,5859.0,43.251
+ordizia,9,10699.0,46.37
+urretxu,2,6765.0,45.727
+zarautz,13,23370.0,49.707
+zumarraga,8,9687.0,38.633
+zumaia,8,10251.0,51.477
+mendaro,1,2004.0,47.258
+alájar,2,791.0,24.279
+aljaraque,6,22489.0,44.181
+almonaster la real,1,1751.0,27.412
+almonte,7,24863.0,27.348
+alosno,3,3982.0,25.683
+aracena,5,8392.0,29.924
+arroyomolinos de león,2,925.0,20.718
+ayamonte,4,21622.0,29.588
+bonares,2,6153.0,32.248
+"campillo, el",3,2014.0,28.528
+"campillo, el",3,2014.0,31.859
+"campillo, el",3,198.0,28.528
+"campillo, el",3,198.0,31.859
+cartaya,4,21408.0,31.128
+cumbres mayores,5,1729.0,25.287
+escacena del campo,2,2318.0,27.813
+fuenteheridos,2,814.0,25.643
+hinojos,2,4056.0,28.91
+huelva,33,143290.0,33.53
+isla cristina,9,21641.0,27.438
+lepe,3,29241.0,29.677
+lucena del puerto,3,3388.0,33.847
+minas de riotinto,2,3713.0,30.308
+moguer,8,23551.0,31.426
+nerva,3,5073.0,29.183
+"palma del condado, la",2,10709.0,32.043
+punta umbría,7,16137.0,30.647
+rociana del condado,2,7985.0,26.277
+san juan del puerto,3,9811.0,31.371
+sanlúcar de guadiana,2,416.0,27.905
+santa bárbara de casa,2,1128.0,24.039
+santa olalla del cala,2,2061.0,25.436
+valdelarco,1,237.0,24.074
+villablanca,1,2979.0,26.454
+villalba del alcor,1,3302.0,25.724
+zalamea la real,5,2963.0,29.368
+zufre,1,735.0,24.563
+albalate de cinca,2,1142.0,35.85
+alcolea de cinca,1,1109.0,35.467
+almudévar,3,2437.0,36.855
+alquézar,1,338.0,34.559
+ansó,2,413.0,33.966
+ayerbe,3,1066.0,33.379
+barbastro,6,17558.0,36.907
+benabarre,3,1137.0,31.791
+benasque,7,2362.0,42.728
+berbegal,1,325.0,34.482
+bielsa,4,487.0,37.916
+biescas,3,1609.0,37.003
+boltaña,2,1102.0,37.316
+broto,3,608.0,33.615
+campo,2,483.0,35.993
+canal de berdún,1,330.0,31.05
+candasnos,2,422.0,43.405
+canfranc,4,612.0,33.806
+castejón de sos,3,868.0,37.113
+estadilla,2,822.0,40.173
+fiscal,2,379.0,35.443
+graus,3,3380.0,32.254
+gurrea de gállego,1,1427.0,31.659
+huerto,1,226.0,31.085
+huesca,28,54704.0,37.516
+jaca,10,13883.0,36.862
+loarre,1,351.0,34.092
+monzón,2,18152.0,35.321
+panticosa,2,909.0,41.067
+peñalba,2,695.0,40.703
+plan,1,279.0,34.464
+sabiñánigo,8,9592.0,36.196
+sallent de gállego,3,1516.0,40.633
+san juan de plan,1,151.0,29.108
+sesa,1,162.0,32.035
+tamarite de litera,1,3429.0,34.607
+tardienta,3,937.0,34.654
+torla,2,,
+valle de hecho,5,798.0,36.157
+"sotonera, la",1,903.0,33.873
+aínsa sobrarbe,5,2317.0,37.163
+albanchez de mágina,2,930.0,22.41
+alcaudete,3,10243.0,25.302
+aldeaquemada,1,456.0,26.572
+andújar,1,35619.0,27.777
+arjonilla,4,3531.0,26.437
+arquillos,2,1685.0,23.075
+baeza,9,15677.0,30.226
+baños de la encina,3,2563.0,25.987
+beas de segura,1,4968.0,21.822
+begíjar,4,2947.0,24.162
+bélmez de la moraleda,2,1509.0,23.573
+cabra del santo cristo,2,1651.0,22.862
+cambil,2,2632.0,20.362
+campillo de arenas,2,1703.0,24.694
+canena,3,1761.0,30.501
+carboneros,1,597.0,23.952
+castellar,4,3156.0,23.566
+castillo de locubín,4,3840.0,24.117
+cazorla,8,7012.0,26.639
+chilluévar,2,1322.0,20.647
+escañuela,2,902.0,26.882
+espelúy,2,,
+frailes,3,1551.0,23.012
+fuensanta de martos,4,2990.0,23.07
+fuerte del rey,2,1342.0,26.147
+"guardia de jaén, la",2,5218.0,42.274
+guarromán,4,2760.0,25.949
+lahiguera,2,1588.0,24.391
+higuera de calatrava,2,591.0,22.136
+hinojares,1,343.0,24.358
+huelma,1,5522.0,24.819
+huesa,2,2419.0,20.409
+ibros,3,2764.0,25.04
+"iruela, la",4,1867.0,23.705
+jabalquinto,2,1961.0,23.837
+jaén,55,112074.0,36.801
+jamilena,3,3298.0,25.685
+jimena,2,1234.0,23.868
+jódar,1,11366.0,23.828
+larva,1,436.0,20.867
+linares,1,55261.0,31.679
+lopera,5,3539.0,25.456
+lupión,1,806.0,22.668
+mancha real,6,11385.0,28.98
+marmolejo,4,6507.0,28.106
+martos,10,24452.0,31.614
+mengíbar,3,10011.0,29.532
+montizón,4,1585.0,20.984
+noalejo,3,1783.0,20.39
+orcera,3,1717.0,24.473
+peal de becerro,6,5276.0,25.394
+pegalajar,3,2827.0,25.398
+porcuna,5,5907.0,24.946
+pozo alcón,1,4550.0,22.954
+puente de génave,4,2188.0,24.241
+"puerta de segura, la",3,2246.0,23.73
+quesada,8,4952.0,23.937
+rus,6,3407.0,25.936
+sabiote,2,3780.0,24.159
+santa elena,2,866.0,26.016
+santiago de calatrava,2,657.0,22.214
+santo tomé,3,2077.0,23.076
+segura de la sierra,3,1688.0,24.688
+siles,3,2109.0,24.663
+sorihuela del guadalimar,2,1034.0,21.601
+torreblascopedro,3,2402.0,21.945
+torre del campo,8,,
+torres,2,1343.0,22.185
+torres de albánchez,2,741.0,21.105
+úbeda,8,33674.0,32.324
+valdepeñas de jaén,4,3556.0,22.65
+villacarrillo,6,10320.0,25.85
+villanueva de la reina,3,2948.0,26.407
+villanueva del arzobispo,2,7753.0,25.054
+"villares, los",3,6079.0,28.056
+cárcheles,1,1293.0,26.248
+bedmar y garcíez,4,2571.0,23.812
+villatorres,3,4267.0,26.386
+santiago pontones,4,2701.0,24.934
+arroyo del ojanco,3,2143.0,22.564
+alija del infantado,3,573.0,26.534
+astorga,5,10308.0,30.784
+bembibre,7,8158.0,32.606
+benavides,1,2342.0,32.618
+boñar,2,1766.0,29.11
+cacabelos,5,4735.0,30.42
+camponaraya,6,4104.0,31.85
+carracedelo,2,3423.0,32.188
+castrocontrigo,2,669.0,25.394
+cistierna,6,2905.0,30.197
+fabero,4,4061.0,33.342
+león,55,122243.0,36.332
+mansilla de las mulas,4,1663.0,29.434
+"pola de gordón, la",1,2842.0,33.347
+ponferrada,28,62994.0,32.49
+puebla de lillo,1,654.0,32.625
+riaño,5,474.0,32.03
+"robla, la",7,3605.0,34.202
+sahagún,3,2398.0,29.667
+san emiliano,2,596.0,32.184
+santa maría del páramo,5,2999.0,32.492
+toreno,3,2855.0,30.666
+valencia de don juan,7,5094.0,30.234
+valverde de la virgen,1,7806.0,33.942
+vega de valcarce,4,552.0,30.735
+villablino,1,7709.0,32.905
+villadangos del páramo,1,1235.0,37.936
+villafranca del bierzo,5,2659.0,27.596
+villamejil,1,653.0,28.582
+villaquejida,2,803.0,28.247
+villaquilambre,1,18647.0,36.027
+villaturiel,5,1838.0,33.138
+àger,1,602.0,35.082
+agramunt,4,5629.0,38.18
+albatàrrec,2,2251.0,40.156
+alcarràs,2,10018.0,34.595
+alcoletge,1,3594.0,40.278
+alfarràs,1,2778.0,32.53
+almatret,1,305.0,35.187
+alpicat,2,6387.0,54.156
+naut aran,3,1899.0,49.289
+anglesola,2,1367.0,36.126
+arbeca,3,2081.0,35.273
+artesa de lleida,2,1539.0,41.134
+artesa de segre,4,3485.0,33.745
+aitona,3,2603.0,34.291
+baix pallars,1,340.0,35.622
+balaguer,6,17705.0,34.401
+barbens,1,926.0,35.821
+"vall de boí, la",4,1116.0,37.339
+belianes,1,517.0,31.226
+bell lloc d'urgell,2,2359.0,40.822
+bellpuig,4,5276.0,36.892
+bellver de cerdanya,2,2260.0,39.415
+bellvís,2,2269.0,36.433
+"borges blanques, les",5,6379.0,34.861
+bossòst,3,1141.0,39.802
+camarasa,1,805.0,38.412
+castelldans,2,891.0,32.748
+castellnou de seana,1,723.0,30.938
+castellserà,1,993.0,34.454
+cervera,6,9533.0,37.638
+cervià de les garrigues,1,641.0,27.01
+coll de nargó,2,587.0,34.224
+espot,1,379.0,45.008
+esterri d'àneu,2,921.0,34.475
+"fuliola, la",1,1238.0,36.996
+golmés,1,1916.0,42.049
+guissona,5,7635.0,43.079
+ivars d'urgell,3,1590.0,39.121
+isona i conca dellà,1,1046.0,34.77
+juneda,2,3473.0,39.062
+lleida,92,144739.0,38.853
+les,2,1013.0,43.936
+linyola,2,2749.0,35.321
+llardecans,1,428.0,32.761
+llavorsí,1,336.0,34.923
+menàrguens,2,789.0,36.161
+miralcamp,2,1390.0,37.945
+mollerussa,5,15544.0,38.302
+montellà i martinet,1,620.0,32.149
+organyà,1,811.0,33.459
+"palau d'anglesola, el",3,2205.0,42.224
+"pobla de segur, la",3,3015.0,34.978
+ponts,1,2703.0,35.624
+"pont de suert, el",3,2380.0,35.267
+puigverd de lleida,1,1418.0,39.316
+rosselló,2,3353.0,39.715
+sant guim de freixenet,1,1222.0,35.002
+"seu d'urgell, la",3,12831.0,32.279
+solsona,4,9480.0,35.352
+sort,3,2213.0,34.687
+sudanell,1,897.0,38.231
+tàrrega,3,18542.0,35.667
+térmens,1,1347.0,40.262
+tornabous,1,851.0,36.964
+torregrossa,2,2194.0,36.573
+torres de segre,2,2318.0,36.128
+tremp,4,6015.0,35.026
+vallfogona de balaguer,1,2000.0,40.671
+verdú,1,886.0,34.656
+vielha e mijaran,5,5832.0,39.286
+vilaller,1,506.0,34.036
+vilanova de bellpuig,1,1168.0,38.963
+vilanova de la barca,2,1107.0,38.645
+vinaixa,2,450.0,30.449
+albelda de iregua,1,3855.0,33.585
+alberite,1,2674.0,32.908
+alcanadre,2,647.0,26.794
+alfaro,2,9874.0,35.351
+arrúbal,1,565.0,32.149
+baños de río tobía,1,1605.0,33.003
+briones,1,749.0,27.657
+casalarreina,2,1062.0,28.42
+cenicero,3,2091.0,30.071
+enciso,1,170.0,26.666
+ezcaray,2,2098.0,32.535
+fuenmayor,3,3278.0,32.724
+haro,4,11979.0,32.092
+logroño,56,151164.0,38.187
+murillo de río leza,1,1665.0,31.475
+nájera,4,8174.0,32.041
+navarrete,2,3038.0,36.326
+pradejón,4,3754.0,32.739
+rincón de soto,1,4024.0,33.531
+santa coloma,1,103.0,32.531
+santo domingo de la calzada,7,6348.0,31.463
+san vicente de la sonsierra,2,1014.0,28.225
+torrecilla en cameros,1,458.0,33.226
+abadín,3,2217.0,28.251
+alfoz,1,1523.0,32.972
+antas de ulla,2,1822.0,28.751
+baleira,2,1120.0,30.228
+barreiros,2,3030.0,31.199
+becerreá,5,2703.0,29.633
+begonte,2,2905.0,31.087
+castro de rei,1,5041.0,34.923
+castroverde,3,2497.0,34.579
+cervantes,1,1187.0,29.848
+"corgo, o",1,3370.0,34.447
+cospeito,4,4213.0,32.899
+chantada,7,8092.0,29.815
+folgoso do courel,2,978.0,28.736
+"fonsagrada, a",4,3116.0,28.937
+foz,4,10198.0,33.931
+friol,2,3598.0,32.435
+guitiriz,6,5122.0,31.385
+guntín,1,2529.0,34.307
+"incio, o",2,1508.0,30.488
+xove,1,3327.0,35.36
+láncara,4,2500.0,31.198
+lourenzá,1,2098.0,31.059
+lugo,45,99482.0,34.88
+meira,1,1756.0,34.996
+mondoñedo,5,3352.0,29.148
+monforte de lemos,3,18560.0,30.371
+monterroso,3,3632.0,29.804
+"nogais, as",1,942.0,29.358
+ourol,1,985.0,28.176
+palas de rei,4,3267.0,29.538
+paradela,2,1591.0,37.413
+"pastoriza, a",2,2787.0,33.883
+pedrafita do cebreiro,1,898.0,34.98
+"pobra do brollón, a",3,1619.0,28.113
+"pontenova, a",2,2124.0,31.821
+portomarín,6,1286.0,37.379
+quiroga,2,3057.0,23.978
+ribadeo,12,9978.0,33.604
+ribas de sil,1,904.0,26.919
+riotorto,1,1179.0,33.242
+samos,2,1198.0,24.279
+sarria,7,13459.0,31.315
+"saviñao, o",2,3488.0,28.014
+sober,1,2129.0,26.733
+trabada,1,1083.0,35.185
+triacastela,1,609.0,30.254
+"valadouro, o",3,1906.0,30.133
+"vicedo, o",2,1589.0,31.006
+vilalba,7,13787.0,32.305
+viveiro,7,15217.0,33.909
+ajalvir,3,4863.0,45.022
+alcalá de henares,60,200702.0,41.866
+alcobendas,37,121373.0,65.139
+alcorcón,14,173625.0,41.634
+algete,1,21167.0,57.767
+alpedrete,8,15543.0,51.116
+aranjuez,16,62292.0,40.453
+arganda del rey,14,59513.0,40.353
+arroyomolinos,4,812.0,23.778
+arroyomolinos,4,812.0,54.546
+arroyomolinos,4,37208.0,23.778
+arroyomolinos,4,37208.0,54.546
+becerril de la sierra,4,6573.0,45.765
+boadilla del monte,8,65839.0,89.455
+"boalo, el",1,8547.0,50.159
+brunete,2,11300.0,46.32
+buitrago del lozoya,2,1973.0,37.493
+bustarviejo,2,2829.0,37.339
+"cabrera, la",1,2922.0,40.944
+cadalso de los vidrios,2,3228.0,30.752
+camarma de esteruelas,3,8106.0,43.253
+campo real,7,6802.0,38.067
+casarrubuelos,2,4211.0,41.197
+cenicientos,1,2148.0,28.218
+cercedilla,3,7647.0,39.93
+ciempozuelos,1,26140.0,36.875
+cobeña,2,7759.0,62.11
+colmenar del arroyo,1,2015.0,40.034
+colmenar de oreja,5,8888.0,33.834
+colmenarejo,3,9623.0,49.871
+colmenar viejo,15,57029.0,52.003
+collado mediano,4,7547.0,50.414
+collado villalba,20,66698.0,41.413
+coslada,29,80760.0,41.836
+cubas de la sagra,1,6988.0,48.589
+chinchón,3,5818.0,33.815
+daganzo de arriba,2,10703.0,53.691
+"escorial, el",5,17176.0,45.779
+fresnedillas de la oliva,2,1837.0,35.963
+fuenlabrada,71,190790.0,38.299
+galapagar,11,36184.0,49.504
+getafe,23,189906.0,41.792
+griñón,2,10718.0,51.037
+guadarrama,5,17062.0,44.863
+hoyo de manzanares,2,9178.0,56.407
+humanes de madrid,12,20074.0,36.888
+leganés,50,194084.0,38.66
+lozoya,1,617.0,35.223
+majadahonda,45,73355.0,74.987
+manzanares el real,3,9550.0,44.742
+meco,5,15732.0,48.565
+mejorada del campo,1,24659.0,38.219
+miraflores de la sierra,2,7139.0,41.298
+"molar, el",2,10052.0,37.511
+"molar, el",2,10052.0,36.209
+"molar, el",2,307.0,37.511
+"molar, el",2,307.0,36.209
+"molinos, los",2,4731.0,44.619
+moraleja de enmedio,2,5576.0,45.942
+moralzarzal,4,14586.0,53.552
+morata de tajuña,2,8319.0,34.744
+mostoles,1,,
+móstoles,56,214006.0,38.622
+navacerrada,2,3290.0,45.842
+navalagamella,2,3111.0,35.963
+navalcarnero,2,32683.0,43.431
+navas del rey,1,3347.0,35.017
+nuevo baztán,3,7339.0,45.765
+paracuellos de jarama,8,27238.0,63.913
+parla,26,134833.0,35.177
+pedrezuela,1,6467.0,42.764
+pelayos de la presa,2,3136.0,30.359
+pinto,22,56003.0,42.7
+pozuelo de alarcón,46,89378.0,96.29
+pozuelo del rey,1,1292.0,36.272
+rascafría,3,1707.0,36.162
+rivas vaciamadrid,16,101949.0,54.628
+"rozas de madrid, las",37,98590.0,74.371
+san agustín del guadalix,5,13762.0,60.674
+san fernando de henares,16,38980.0,40.448
+san lorenzo de el escorial,5,18735.0,44.28
+san martín de la vega,9,20733.0,38.563
+san martín de valdeiglesias,3,9159.0,34.141
+san sebastián de los reyes,13,94969.0,52.413
+sevilla la nueva,5,9657.0,45.411
+soto del real,3,9441.0,55.841
+titulcia,1,1387.0,35.992
+torrejón de ardoz,73,140626.0,41.459
+torrejón de la calzada,4,10378.0,47.016
+torrejón de velasco,2,4893.0,42.058
+torrelaguna,3,4991.0,38.394
+torrelodones,5,25316.0,80.733
+torres de la alameda,2,7758.0,40.471
+valdemorillo,1,14164.0,48.965
+valdemoro,6,83507.0,45.042
+valdeolmos alalpardo,1,4568.0,53.684
+velilla de san antonio,1,14003.0,44.913
+villa del prado,3,7437.0,35.179
+villamanta,2,2823.0,37.101
+villarejo de salvanés,3,7900.0,34.795
+villaviciosa de odón,11,29273.0,68.382
+zarzalejo,1,1874.0,32.896
+lozoyuela navas sieteiglesias,1,1483.0,33.065
+tres cantos,8,52932.0,67.752
+alfarnate,1,1046.0,24.621
+algarrobo,4,6909.0,26.764
+algatocín,1,834.0,22.206
+alhaurín de la torre,7,44057.0,43.02
+almáchar,1,1927.0,21.423
+almogía,1,4132.0,25.828
+álora,1,13570.0,26.8
+alozaina,1,2130.0,24.529
+antequera,15,41619.0,32.934
+archidona,1,8042.0,27.824
+ardales,4,2516.0,26.668
+benahavís,5,9077.0,37.268
+benalauría,1,465.0,23.65
+benalmádena,63,77654.0,33.901
+benamargosa,3,1552.0,19.84
+benaoján,1,1428.0,24.756
+benarrabá,1,462.0,22.165
+"burgo, el",2,1758.0,24.309
+campillos,6,8499.0,29.455
+canillas de aceituno,1,1777.0,22.506
+cañete la real,2,1587.0,24.681
+carratraca,2,786.0,26.347
+cártama,2,28934.0,31.986
+casabermeja,1,4065.0,28.07
+casares,2,8486.0,32.424
+colmenar,2,3545.0,25.352
+cómpeta,2,3735.0,25.036
+cortes de la frontera,2,3000.0,25.364
+cuevas bajas,1,1341.0,24.633
+cuevas de san marcos,1,3620.0,24.019
+estepona,11,78413.0,34.48
+frigiliana,4,3310.0,29.064
+fuengirola,37,85859.0,32.091
+fuente de piedra,1,2958.0,26.659
+istán,1,1622.0,29.998
+jimera de líbar,1,398.0,24.583
+jubrique,1,578.0,21.232
+málaga,179,591637.0,36.64
+manilva,1,18099.0,30.15
+marbella,64,159000.0,37.606
+mijas,45,93302.0,31.912
+mollina,3,5449.0,25.105
+monda,1,2981.0,26.973
+montejaque,2,952.0,23.515
+nerja,38,22187.0,30.738
+ojén,2,4682.0,30.276
+parauta,2,281.0,22.321
+periana,2,3350.0,23.411
+pizarra,1,10177.0,30.217
+pujerra,1,290.0,27.91
+rincón de la victoria,12,52230.0,37.913
+riogordo,1,2778.0,25.706
+ronda,9,33451.0,32.294
+sayalonga,1,1646.0,22.571
+sierra de yeguas,2,3452.0,27.344
+tolox,1,2374.0,24.472
+torrox,11,21583.0,26.227
+valle de abdalajís,1,2435.0,24.615
+vélez málaga,32,85990.0,31.28
+villanueva del rosario,1,3401.0,26.189
+villanueva del trabuco,3,5410.0,25.794
+yunquera,2,2868.0,24.743
+torremolinos,24,70933.0,33.655
+villanueva de la concepción,1,3286.0,26.582
+abarán,1,13000.0,30.917
+águilas,2,37417.0,30.995
+albudeite,1,1400.0,26.845
+alcantarilla,2,43547.0,32.961
+aledo,1,1108.0,32.216
+alhama de murcia,9,23578.0,33.652
+archena,3,20976.0,31.87
+beniel,1,11535.0,31.196
+blanca,3,6825.0,29.211
+bullas,3,11793.0,29.822
+calasparra,1,10286.0,28.646
+campos del río,2,2151.0,29.919
+caravaca de la cruz,2,25996.0,31.85
+cartagena,91,219777.0,36.484
+cehegín,5,14476.0,28.425
+jumilla,5,27263.0,30.781
+librilla,4,5777.0,31.392
+lorca,26,98334.0,35.178
+mazarrón,3,35099.0,27.662
+molina de segura,6,77493.0,39.382
+moratalla,1,7593.0,26.888
+murcia,120,474617.0,38.682
+san javier,15,35872.0,33.881
+san pedro del pinatar,7,28706.0,30.444
+torre pacheco,14,40074.0,33.036
+yecla,9,35957.0,31.414
+santomera,6,16320.0,33.955
+"alcázares, los",15,19506.0,28.822
+altsasu/alsasua,8,7710.0,39.358
+andosilla,4,2913.0,34.134
+ansoáin/antsoain,3,10641.0,39.598
+añorbe,1,627.0,40.492
+aoiz/agoitz,2,3007.0,37.712
+araitz,1,520.0,45.116
+arantza,1,619.0,53.484
+aranguren,3,12787.0,61.246
+arbizu,1,1108.0,47.504
+"arcos, los",2,1191.0,38.471
+aribe,3,32.0,43.617
+azagra,1,3756.0,40.552
+barásoain,1,594.0,42.566
+baztan,6,7863.0,41.185
+betelu,1,383.0,41.203
+auritz/burguete,2,230.0,47.899
+burlada/burlata,9,21078.0,40.718
+cabanillas,1,1376.0,43.786
+cirauqui/zirauki,1,465.0,38.881
+cortes,1,3160.0,37.964
+etxalar,2,814.0,43.3
+etxarri aranatz,1,2545.0,42.688
+egüés,3,,
+noáin (valle de elorz)/noain (elortzibar),1,8469.0,44.511
+erro,1,811.0,42.441
+ezcároz/ezkaroze,1,304.0,44.6
+estella/lizarra,7,,
+esteribar,1,2877.0,50.173
+eulate,2,271.0,40.63
+funes,2,2558.0,41.634
+fustiñana,2,2451.0,38.645
+galar,3,2400.0,55.1
+huarte/uharte,3,7737.0,46.622
+uharte arakil,2,791.0,40.736
+isaba/izaba,2,385.0,41.264
+lakuntza,2,1325.0,43.284
+leitza,1,3011.0,41.84
+lerín,1,1783.0,37.788
+lesaka,5,2716.0,45.312
+lodosa,3,4931.0,35.686
+lumbier,2,1327.0,42.807
+mañeru,1,450.0,42.952
+mendavia,3,3535.0,34.56
+mendigorría,2,,
+monreal,1,,
+navascués,1,,
+obanos,1,910.0,46.459
+ochagavía/otsagabia,3,488.0,46.778
+olazti/olazagutía,2,1464.0,37.652
+olite/erriberri,4,4087.0,41.334
+pamplona/iruña,101,207777.0,43.352
+peralta/azkoien,4,6003.0,47.535
+puente la reina/gares,4,2930.0,38.49
+roncal/erronkari,1,214.0,30.276
+sangüesa/zangoza,4,4862.0,43.205
+santacara,2,858.0,37.446
+doneztebe/santesteban,5,1860.0,41.75
+sartaguda,2,1325.0,33.209
+sunbilla,1,674.0,38.749
+tafalla,8,10778.0,40.626
+torres del río,1,115.0,31.459
+tudela,4,38685.0,39.644
+ultzama,1,1628.0,54.365
+urdazubi/urdax,2,364.0,53.624
+urdiain,1,642.0,44.562
+urroz villa,1,404.0,42.493
+luzaide/valcarlos,1,309.0,39.71
+valtierra,1,2464.0,40.043
+bera,7,3763.0,44.803
+viana,4,4413.0,34.23
+villafranca,2,3077.0,38.389
+villatuerta,1,1268.0,44.931
+villava/atarrabia,4,10016.0,44.003
+barañain,6,,
+berriozar,2,11201.0,38.451
+irurtzun,2,2316.0,39.206
+beriáin,1,4197.0,41.042
+orkoien,1,4097.0,46.923
+zizur mayor/zizur nagusia,5,16124.0,51.0
+lekunberri,4,1697.0,40.701
+allariz,7,6410.0,33.872
+"arnoia, a",1,970.0,33.414
+avión,2,1727.0,20.456
+baltar,2,853.0,28.432
+bande,2,1473.0,25.99
+barbadás,1,11176.0,33.945
+"barco de valdeorras, o",6,13300.0,32.961
+beariz,3,949.0,22.82
+"blancos, os",1,716.0,26.677
+carballeda de valdeorras,2,1341.0,35.52
+"carballiño, o",5,14075.0,28.154
+castro caldelas,2,1238.0,29.679
+celanova,2,5727.0,29.24
+cenlle,1,1076.0,29.146
+coles,1,3172.0,30.342
+cualedro,2,1586.0,24.484
+chandrexa de queixa,1,478.0,28.787
+entrimo,1,1079.0,26.606
+esgos,1,1102.0,30.921
+xinzo de limia,2,9632.0,29.436
+"gudiña, a",4,1186.0,27.606
+laza,1,1164.0,26.149
+leiro,1,1481.0,25.499
+lobios,2,1820.0,27.173
+maceda,1,2837.0,30.349
+manzaneda,1,798.0,30.569
+montederramo,1,670.0,26.862
+muíños,1,1418.0,28.675
+nogueira de ramuín,2,2048.0,29.068
+ourense,28,104891.0,34.322
+paderne de allariz,1,1352.0,31.866
+parada de sil,2,522.0,28.479
+"peroxa, a",1,1761.0,28.22
+"pobra de trives, a",1,1968.0,30.386
+ramirás,2,1508.0,23.758
+ribadavia,2,4936.0,29.24
+san xoán de río,1,518.0,25.903
+san amaro,1,1039.0,27.938
+san cibrao das viñas,2,5718.0,35.331
+san cristovo de cea,2,1989.0,29.918
+toén,1,2333.0,34.117
+trasmiras,1,1220.0,25.823
+"veiga, a",1,887.0,24.696
+viana do bolo,1,2736.0,28.509
+vilamartín de valdeorras,1,1822.0,31.098
+vilar de barrio,1,1199.0,27.435
+vilariño de conso,1,510.0,28.689
+allande,2,1530.0,29.658
+aller,6,10012.0,33.006
+amieva,1,603.0,28.096
+avilés,32,75351.0,34.562
+belmonte de miranda,2,1394.0,29.781
+bimenes,1,1649.0,29.826
+boal,4,1380.0,30.455
+cabrales,4,1908.0,25.659
+candamo,1,1899.0,35.08
+cangas del narcea,1,11421.0,36.658
+cangas de onís,7,6316.0,30.284
+carreño,4,10256.0,36.314
+caso,4,1427.0,31.386
+castrillón,6,22124.0,39.729
+castropol,5,3252.0,36.055
+colunga,6,3148.0,28.931
+corvera de asturias,1,15637.0,32.278
+cudillero,6,4896.0,31.642
+"franco, el",2,3744.0,36.719
+gijón,100,268561.0,35.852
+gozón,6,10405.0,36.091
+grado,1,9688.0,32.213
+grandas de salime,2,779.0,32.574
+langreo,22,38282.0,30.771
+laviana,4,12284.0,32.98
+lena,9,10259.0,32.823
+valdés,10,10895.0,33.324
+llanera,4,13938.0,39.614
+llanes,9,13549.0,30.722
+mieres,12,349.0,36.261
+mieres,12,349.0,32.313
+mieres,12,36132.0,36.261
+mieres,12,36132.0,32.313
+morcín,2,2537.0,36.298
+muros de nalón,1,1942.0,32.049
+nava,4,5203.0,33.387
+navia,5,8112.0,38.074
+noreña,4,5102.0,36.687
+onís,1,732.0,25.567
+oviedo,129,220543.0,38.153
+parres,5,5152.0,31.175
+peñamellera baja,1,1188.0,27.336
+piloña,10,6753.0,28.212
+ponga,1,576.0,27.256
+pravia,5,7790.0,30.466
+proaza,2,675.0,32.506
+quirós,1,1160.0,31.135
+"regueras, las",1,1875.0,41.336
+ribadedeva,2,1693.0,28.886
+ribadesella,5,5552.0,30.653
+riosa,1,1712.0,33.475
+salas,6,4799.0,30.085
+san martín del rey aurelio,6,15405.0,30.213
+santa eulalia de oscos,1,425.0,24.174
+san tirso de abres,1,400.0,28.241
+sariego,1,1265.0,38.487
+siero,14,52593.0,37.495
+sobrescobio,1,845.0,35.913
+somiedo,1,1065.0,30.344
+soto del barco,1,3807.0,33.434
+tapia de casariego,1,3579.0,36.68
+taramundi,2,558.0,30.282
+teverga,3,1539.0,31.623
+tineo,6,8769.0,33.481
+vegadeo,5,3930.0,31.913
+villanueva de oscos,1,248.0,24.782
+villaviciosa,4,15342.0,32.65
+aguilar de campoo,7,6823.0,34.944
+alar del rey,3,912.0,28.126
+astudillo,2,1039.0,33.909
+baltanás,4,1228.0,29.849
+venta de baños,7,6331.0,32.788
+becerril de campos,1,757.0,34.365
+carrión de los condes,5,1999.0,31.338
+cervera de pisuerga,3,2284.0,30.383
+cevico de la torre,2,475.0,33.854
+dueñas,1,2587.0,32.789
+frómista,3,748.0,33.145
+fuentes de nava,2,567.0,31.143
+guardo,3,5548.0,31.339
+herrera de pisuerga,1,1898.0,28.653
+palencia,23,76738.0,35.179
+paredes de nava,3,1911.0,32.441
+quintana del puente,2,251.0,36.733
+saldaña,2,2869.0,31.091
+torquemada,1,966.0,30.522
+velilla del río carrión,1,1129.0,33.02
+villada,4,834.0,29.239
+villamuriel de cerrato,3,6508.0,35.609
+villarramiel,2,788.0,32.14
+villaviudas,1,366.0,34.477
+osorno la mayor,2,1190.0,33.948
+agaete,3,5670.0,35.502
+agüimes,4,33179.0,36.84
+antigua,10,13832.0,33.154
+arrecife,12,68169.0,35.247
+artenara,1,1029.0,37.468
+arucas,5,38936.0,37.373
+firgas,1,7688.0,36.87
+gáldar,5,24811.0,34.745
+haría,4,5567.0,37.216
+ingenio,5,32747.0,35.479
+mogán,33,21175.0,32.869
+moya,1,148.0,22.481
+moya,1,148.0,32.65
+moya,1,7987.0,22.481
+moya,1,7987.0,32.65
+"oliva, la",22,29693.0,33.606
+pájara,22,21614.0,33.165
+"palmas de gran canaria, las",181,380436.0,39.148
+puerto del rosario,9,44638.0,37.142
+san bartolomé,1,19443.0,39.459
+san bartolomé de tirajana,69,54116.0,34.193
+"aldea de san nicolás, la",2,7449.0,32.201
+santa brígida,5,18551.0,49.767
+santa lucía de tirajana,6,77098.0,33.026
+santa maría de guía de gran canaria,1,14135.0,34.486
+teguise,13,23848.0,44.95
+tejeda,2,1826.0,32.839
+telde,10,102867.0,34.808
+teror,7,12878.0,35.505
+tías,21,21462.0,38.929
+tinajo,2,6865.0,42.55
+tuineje,7,16454.0,38.027
+valsequillo de gran canaria,1,9768.0,37.168
+vega de san mateo,7,7856.0,32.93
+yaiza,31,18113.0,38.884
+baiona,3,12380.0,38.181
+bueu,2,11837.0,32.358
+caldas de reis,4,9614.0,33.992
+cambados,2,13752.0,33.075
+cangas,8,26714.0,34.982
+cotobade,1,,
+covelo,1,2422.0,24.445
+cuntis,1,4515.0,31.204
+"estrada, a",7,20139.0,33.797
+forcarei,2,3127.0,27.794
+agolada,3,2282.0,25.445
+gondomar,2,15103.0,37.524
+"grove, o",9,10821.0,31.549
+"guarda, a",5,10041.0,30.665
+lalín,1,20277.0,31.517
+"lama, a",1,2515.0,23.333
+marín,5,24154.0,32.876
+meaño,1,5264.0,34.421
+meis,2,4703.0,34.403
+moaña,4,19315.0,34.505
+mondariz,1,4425.0,29.534
+moraña,4,4110.0,34.213
+mos,4,15152.0,39.428
+"neves, as",2,3678.0,28.302
+nigrán,5,18208.0,43.774
+oia,2,3080.0,34.255
+pontevedra,27,83077.0,36.854
+"porriño, o",8,20711.0,34.204
+poio,3,17425.0,39.191
+ponteareas,10,23196.0,29.019
+ponte caldelas,2,5580.0,28.969
+redondela,8,28976.0,37.805
+"rosal, o",1,6509.0,31.483
+salceda de caselas,1,9430.0,33.317
+salvaterra de miño,3,10471.0,28.286
+sanxenxo,10,17914.0,35.157
+silleda,3,8870.0,31.568
+soutomaior,1,7584.0,33.34
+tomiño,3,13782.0,30.262
+tui,2,17454.0,35.013
+valga,2,5671.0,38.433
+vigo,83,293977.0,38.846
+vila de cruces,3,5033.0,27.413
+vilagarcía de arousa,6,37761.0,32.879
+vilanova de arousa,3,10225.0,31.779
+"illa de arousa, a",1,4849.0,33.06
+alaraz,1,448.0,29.588
+alba de tormes,6,5122.0,31.018
+"alberca, la",4,1045.0,25.757
+aldeadávila de la ribera,4,1120.0,24.978
+barruecopardo,1,421.0,33.39
+béjar,11,11957.0,27.52
+cabrerizos,2,4226.0,47.368
+calvarrasa de abajo,1,1201.0,30.129
+calzada de valdunciel,2,700.0,31.839
+candelario,2,843.0,30.082
+carbajosa de la sagrada,6,7636.0,42.847
+castellanos de moriscos,1,3051.0,32.388
+cepeda,1,303.0,22.499
+ciudad rodrigo,7,11846.0,28.453
+"cubo de don sancho, el",1,377.0,30.662
+doñinos de salamanca,1,2209.0,38.41
+fuenteguinaldo,2,652.0,25.477
+fuentes de oñoro,5,1009.0,43.961
+gomecello,2,412.0,30.182
+guijuelo,7,5508.0,34.358
+hinojosa de duero,1,577.0,23.613
+ituero de azaba,1,199.0,27.109
+lagunilla,1,428.0,22.766
+ledesma,1,1517.0,29.212
+ledrada,3,465.0,34.758
+lumbrales,4,1510.0,27.529
+macotera,2,1001.0,29.608
+"maíllo, el",1,282.0,25.178
+matilla de los caños del río,2,613.0,27.171
+mieza,1,176.0,27.64
+miranda del castañar,2,381.0,22.12
+mogarraz,1,252.0,30.4
+navasfrías,1,362.0,20.667
+"payo, el",1,313.0,28.011
+peñaparda,1,308.0,18.307
+peñaranda de bracamonte,2,6063.0,27.597
+robleda,2,457.0,29.921
+salamanca,77,144866.0,33.391
+san esteban de la sierra,1,372.0,30.453
+san felices de los gallegos,1,350.0,24.783
+san martín del castañar,1,234.0,24.798
+santa marta de tormes,8,14726.0,37.831
+santibáñez de béjar,1,444.0,20.903
+santiz,1,229.0,28.155
+saucelle,1,252.0,29.061
+sorihuela,1,256.0,25.958
+sotoserrano,2,513.0,27.041
+tamames,5,785.0,29.729
+valdecarros,1,310.0,31.858
+valdelosa,1,404.0,34.024
+vecinos,1,219.0,27.669
+"vellés, la",3,540.0,36.302
+villamayor,1,7669.0,40.242
+villanueva del conde,1,174.0,28.281
+villar de peralonso,1,204.0,28.373
+villares de la reina,7,6723.0,37.342
+vitigudino,6,2361.0,30.337
+adeje,84,50549.0,33.398
+agulo,1,1108.0,32.739
+alajeró,1,2071.0,33.176
+arafo,2,5776.0,36.435
+arico,3,9120.0,29.362
+arona,63,86624.0,30.042
+barlovento,1,2014.0,32.458
+breña alta,1,7428.0,41.375
+breña baja,4,6112.0,44.111
+buenavista del norte,3,4680.0,30.558
+candelaria,9,28795.0,38.582
+fasnia,2,3066.0,31.773
+frontera,3,4528.0,33.599
+fuencaliente de la palma,3,1900.0,28.457
+garachico,2,4924.0,32.085
+granadilla de abona,17,57143.0,33.49
+"guancha, la",2,5593.0,32.283
+guía de isora,11,22642.0,33.068
+güímar,7,21716.0,34.496
+hermigua,3,1887.0,33.155
+icod de los vinos,10,24285.0,30.225
+san cristóbal de la laguna,48,160258.0,36.633
+"llanos de aridane, los",10,20283.0,36.279
+"matanza de acentejo, la",3,9160.0,34.628
+"orotava, la",13,42585.0,34.805
+"paso, el",1,8156.0,39.352
+puerto de la cruz,36,31377.0,32.185
+puntagorda,3,2355.0,31.077
+puntallana,1,2699.0,38.687
+"realejos, los",13,37522.0,32.945
+"rosario, el",2,17983.0,46.886
+san andrés y sauces,5,4296.0,38.064
+san juan de la rambla,3,4904.0,31.495
+san miguel de abona,15,23138.0,33.528
+san sebastián de la gomera,10,9562.0,39.171
+santa cruz de la palma,14,15565.0,42.144
+santa cruz de tenerife,100,211359.0,39.072
+santa úrsula,11,15386.0,32.989
+santiago del teide,16,12373.0,31.966
+"sauzal, el",3,9278.0,39.975
+"silos, los",2,4705.0,30.775
+tacoronte,9,24746.0,37.994
+"tanque, el",4,2787.0,30.676
+tazacorte,4,4559.0,30.805
+tegueste,3,11405.0,43.325
+tijarafe,2,2684.0,34.002
+valverde,6,5268.0,35.734
+valle gran rey,5,4854.0,31.175
+vallehermoso,4,2954.0,27.502
+"victoria de acentejo, la",4,9313.0,29.516
+vilaflor,1,,
+villa de mazo,2,5070.0,37.233
+"pinar de el hierro, el",4,2010.0,32.67
+alfoz de lloredo,3,2499.0,32.36
+ampuero,3,4477.0,32.967
+anievas,1,267.0,31.227
+argoños,1,1872.0,38.048
+arnuero,2,2279.0,34.801
+arredondo,1,477.0,27.126
+"astillero, el",12,18467.0,35.804
+bárcena de cicero,1,4741.0,34.002
+bárcena de pie de concha,1,674.0,33.415
+bareyo,2,2133.0,33.214
+cabezón de la sal,4,8162.0,33.99
+cabuérniga,2,998.0,34.638
+camaleño,1,969.0,37.065
+camargo,14,30422.0,38.278
+cartes,2,5865.0,33.128
+castro urdiales,16,33482.0,36.815
+cillorigo de liébana,1,1362.0,31.432
+colindres,6,8540.0,35.479
+comillas,3,2146.0,30.887
+"corrales de buelna, los",4,10813.0,33.295
+corvera de toranzo,1,2139.0,30.321
+campoo de enmedio,1,3736.0,36.499
+entrambasaguas,3,5646.0,35.571
+escalante,1,736.0,39.538
+guriezo,2,2458.0,35.431
+herrerías,1,581.0,31.656
+lamasón,1,246.0,26.202
+laredo,8,10752.0,32.773
+liendo,1,1226.0,40.883
+liérganes,2,2390.0,36.819
+limpias,1,1991.0,32.44
+luena,1,608.0,28.961
+marina de cudeyo,4,5190.0,40.751
+mazcuerras,1,2093.0,36.519
+medio cudeyo,5,7686.0,38.002
+meruelo,2,2311.0,31.297
+noja,3,2700.0,32.215
+peñarrubia,2,314.0,31.339
+piélagos,5,26783.0,41.651
+polaciones,1,202.0,25.98
+polanco,1,6239.0,37.236
+potes,7,1353.0,29.937
+puente viesgo,3,2881.0,35.826
+ramales de la victoria,3,3061.0,27.09
+reinosa,5,8566.0,31.91
+ribamontán al mar,4,4615.0,37.187
+ribamontán al monte,1,2538.0,39.516
+rionansa,2,1002.0,31.129
+riotuerto,1,1675.0,33.782
+ruente,1,1072.0,34.056
+ruesga,1,829.0,30.862
+san felices de buelna,1,2376.0,33.965
+san pedro del romeral,1,432.0,22.169
+santa cruz de bezana,7,13832.0,48.663
+santa maría de cayón,2,9367.0,34.991
+santander,97,174101.0,38.641
+santillana del mar,3,4211.0,40.012
+santiurde de toranzo,1,1739.0,34.805
+santoña,8,10916.0,32.361
+san vicente de la barquera,3,3992.0,32.29
+selaya,2,1846.0,32.22
+soba,2,1076.0,28.35
+suances,7,9092.0,36.665
+"tojos, los",1,375.0,31.307
+torrelavega,38,51663.0,32.104
+valdáliga,1,2152.0,33.162
+valdeolea,2,884.0,30.646
+valdeprado del río,1,320.0,33.366
+valderredible,2,931.0,30.078
+vega de liébana,1,690.0,29.801
+vega de pas,2,768.0,42.309
+villacarriedo,2,1685.0,33.207
+villafufre,1,1020.0,32.599
+valle de villaverde,1,252.0,24.45
+voto,2,2945.0,32.923
+abades,2,859.0,35.433
+aguilafuente,3,564.0,31.727
+ayllón,3,1105.0,31.452
+bernardos,1,463.0,33.823
+bernuy de porreros,1,1247.0,32.895
+boceguillas,1,721.0,33.625
+cabezuela,1,656.0,34.505
+cantalejo,4,3558.0,31.843
+coca,2,1703.0,32.461
+cuéllar,7,9530.0,32.474
+"espinar, el",8,10145.0,33.748
+fuentepelayo,2,772.0,35.277
+lastras de cuéllar,1,307.0,26.35
+"losa, la",1,531.0,39.501
+marugán,1,763.0,29.91
+mozoncillo,2,907.0,36.24
+nava de la asunción,4,2787.0,32.258
+navas de oro,2,1274.0,33.341
+olombrada,2,503.0,29.18
+otero de herreros,1,966.0,34.263
+prádena,2,468.0,34.084
+riaza,2,2144.0,32.697
+sacramenia,2,330.0,31.926
+sangarcía,1,279.0,35.363
+real sitio de san ildefonso,4,5205.0,37.405
+san pedro de gaíllos,1,311.0,30.999
+santa maría la real de nieva,2,885.0,33.1
+segovia,19,51525.0,37.688
+trescasas,1,1105.0,49.643
+valverde del majano,1,1126.0,37.771
+vallelado,2,728.0,34.045
+villacastín,2,1525.0,31.71
+zarzuela del pinar,1,408.0,30.31
+san cristóbal de segovia,5,3153.0,41.249
+alanís,2,1673.0,22.828
+alcalá de guadaíra,6,76922.0,34.143
+alcalá del río,1,12250.0,29.515
+arahal,2,19417.0,31.854
+aznalcázar,3,4886.0,28.327
+bollullos de la mitación,2,11251.0,37.475
+bormujos,9,22970.0,42.978
+brenes,2,12883.0,28.354
+burguillos,3,7327.0,27.477
+"cabezas de san juan, las",3,16410.0,27.133
+camas,1,28705.0,30.135
+"campana, la",3,5132.0,26.691
+carmona,9,29871.0,30.984
+casariche,2,5307.0,26.038
+castilleja de la cuesta,5,17153.0,33.995
+cazalla de la sierra,6,4629.0,27.19
+coria del río,2,31095.0,28.848
+coripe,2,1198.0,24.823
+dos hermanas,25,140430.0,37.584
+écija,12,39500.0,29.634
+espartinas,2,16482.0,48.244
+gines,4,13524.0,44.225
+guillena,4,14064.0,31.354
+herrera,3,6566.0,29.187
+huévar del aljarafe,2,3360.0,31.232
+lora de estepa,2,888.0,25.498
+lora del río,3,18189.0,27.661
+mairena del alcor,1,24238.0,34.361
+mairena del aljarafe,7,47898.0,43.081
+"molares, los",1,3636.0,27.705
+morón de la frontera,4,27228.0,29.004
+osuna,2,17374.0,30.034
+"palacios y villafranca, los",4,38757.0,28.352
+palomares del río,1,9277.0,42.601
+paradas,2,6779.0,25.695
+"pedroso, el",2,2074.0,25.383
+pilas,2,14105.0,26.771
+"puebla de cazalla, la",2,10799.0,28.114
+"puebla de los infantes, la",2,2927.0,24.408
+"puebla del río, la",2,11871.0,28.512
+"rinconada, la",8,40529.0,32.823
+"roda de andalucía, la",2,4180.0,27.904
+salteras,4,5580.0,38.257
+san juan de aznalfarache,2,23090.0,28.974
+san nicolás del puerto,2,600.0,22.198
+santiponce,1,8625.0,32.026
+sevilla,313,687488.0,37.94
+tomares,6,25488.0,47.952
+utrera,22,52173.0,30.796
+villaverde del río,2,7794.0,28.302
+"viso del alcor, el",1,19310.0,32.349
+ágreda,1,3094.0,37.069
+almazán,6,5476.0,34.373
+almenar de soria,2,216.0,34.511
+berlanga de duero,3,831.0,31.918
+burgo de osma ciudad de osma,4,5204.0,34.348
+cabrejas del pinar,1,299.0,30.417
+castilruiz,1,158.0,30.572
+duruelo de la sierra,2,1026.0,36.56
+fuentearmegil,1,150.0,25.159
+golmayo,1,3059.0,41.961
+gómara,2,288.0,28.109
+langa de duero,1,716.0,30.134
+medinaceli,5,671.0,32.067
+monteagudo de las vicarías,1,177.0,28.379
+navaleno,2,732.0,33.789
+quintana redonda,1,512.0,30.712
+retortillo de soria,1,130.0,30.156
+san esteban de gormaz,1,2935.0,34.401
+san leonardo de yagüe,4,1949.0,32.91
+santa maría de huerta,1,242.0,26.189
+soria,26,40750.0,37.786
+vinuesa,2,833.0,29.875
+albinyana,1,2677.0,35.307
+alcanar,6,9943.0,30.83
+alcover,3,5348.0,39.528
+"aleixar, l'",1,962.0,39.718
+altafulla,2,5838.0,47.792
+"ametlla de mar, l'",3,7373.0,34.077
+amposta,4,22637.0,32.145
+arnes,1,463.0,32.815
+barberà de la conca,1,471.0,33.038
+benifallet,1,718.0,33.671
+"bisbal del penedès, la",1,4168.0,33.315
+cabacés,1,302.0,29.768
+calafell,1,31828.0,34.697
+cambrils,2,36849.0,40.382
+castellvell del camp,1,2995.0,59.974
+"catllar, el",1,5218.0,48.845
+corbera d'ebre,2,1019.0,33.613
+creixell,2,4190.0,34.264
+cunit,4,15804.0,34.178
+xerta,1,1156.0,31.333
+"espluga de francolí, l'",4,3817.0,36.494
+falset,2,2856.0,38.843
+flix,4,3324.0,38.647
+gandesa,2,3166.0,36.474
+horta de sant joan,2,1157.0,30.06
+llorenç del penedès,2,2431.0,40.815
+marçà,1,598.0,32.928
+masllorenç,1,573.0,30.143
+montblanc,3,7550.0,40.376
+mont roig del camp,9,14114.0,32.709
+móra d'ebre,1,5726.0,37.861
+"morell, el",1,3878.0,40.659
+perafort,1,1308.0,45.967
+"pinell de brai, el",1,979.0,35.041
+"pont d'armentera, el",1,498.0,29.561
+reus,33,109930.0,37.169
+riudecanyes,1,1345.0,32.809
+riudoms,2,6905.0,39.236
+sant carles de la ràpita,4,,
+sant jaume dels domenys,2,2803.0,37.193
+santa coloma de queralt,3,2800.0,37.453
+"selva del camp, la",4,5819.0,42.541
+tarragona,45,141151.0,39.912
+torredembarra,5,17984.0,35.099
+tortosa,2,35265.0,36.864
+ulldecona,5,6551.0,30.958
+valls,13,25047.0,38.483
+"vendrell, el",3,40440.0,34.765
+vila rodona,1,1374.0,34.045
+vila seca,11,23826.0,37.278
+"vilella baixa, la",1,207.0,31.687
+vinyols i els arcs,2,2400.0,43.07
+deltebre,3,11951.0,33.443
+sant jaume d'enveja,2,3667.0,31.215
+"aldea, l'",4,4471.0,31.327
+salou,16,30810.0,35.852
+albalate del arzobispo,3,1933.0,31.842
+alcañiz,3,16247.0,35.287
+alcorisa,2,3234.0,34.282
+aliaga,1,345.0,36.176
+alloza,1,551.0,29.86
+andorra,1,7258.0,38.249
+ariño,4,632.0,36.17
+báguena,1,295.0,27.05
+beceite,2,562.0,30.413
+bello,2,213.0,32.232
+bronchales,1,451.0,30.906
+calamocha,1,4542.0,34.02
+calanda,2,3678.0,31.72
+caminreal,2,603.0,36.139
+cantavieja,1,719.0,32.552
+castellote,1,663.0,30.49
+cedrillas,1,647.0,38.961
+cella,5,2690.0,34.445
+"codoñera, la",1,321.0,29.414
+escucha,1,772.0,36.315
+frías de albarracín,3,112.0,27.437
+híjar,3,1760.0,32.936
+"iglesuela del cid, la",1,377.0,26.704
+manzanera,1,539.0,26.715
+mazaleón,2,481.0,29.257
+monreal del campo,1,2541.0,34.132
+ojos negros,1,328.0,27.762
+orihuela del tremedal,1,458.0,33.367
+pancrudo,1,113.0,32.918
+perales del alfambra,2,271.0,32.928
+"puebla de valverde, la",1,465.0,31.468
+ráfales,1,149.0,25.434
+santa eulalia,3,1020.0,33.138
+sarrión,2,1216.0,32.348
+teruel,19,36713.0,39.5
+torrijo del campo,1,502.0,30.555
+utrillas,1,3102.0,38.298
+valderrobres,3,2545.0,32.408
+villarquemado,1,870.0,33.347
+aldeanueva de san bartolomé,3,413.0,25.648
+almorox,4,2472.0,27.068
+bargas,2,11099.0,38.475
+belvís de la jara,3,1428.0,26.168
+borox,2,4250.0,31.023
+buenaventura,1,377.0,24.892
+cabañas de la sagra,2,2137.0,30.807
+camuñas,2,1767.0,26.771
+castillo de bayuela,2,921.0,30.791
+cazalegas,1,2098.0,25.556
+cedillo del condado,5,4337.0,30.299
+cobeja,3,2668.0,32.684
+cobisa,1,4500.0,49.344
+consuegra,1,9758.0,30.925
+corral de almaguer,1,5237.0,27.708
+domingo pérez,1,395.0,21.179
+escalonilla,1,1497.0,27.476
+fuensalida,6,12508.0,29.677
+gálvez,2,3006.0,31.117
+"iglesuela, la",1,,
+illescas,6,32159.0,39.826
+lillo,2,2493.0,24.017
+lominchar,2,2815.0,29.56
+"mata, la",3,915.0,24.915
+mejorada,1,1385.0,28.981
+nambroca,2,5250.0,39.139
+"navalmorales, los",3,2120.0,25.205
+navamorcuende,2,599.0,27.917
+ocaña,6,14469.0,28.691
+olías del rey,2,8947.0,44.497
+oropesa,3,2564.0,28.333
+pantoja,3,3523.0,30.047
+"puebla de almoradiel, la",2,4887.0,27.215
+"puebla de montalbán, la",6,8032.0,31.151
+"pueblanueva, la",1,2138.0,27.344
+"puente del arzobispo, el",3,1151.0,28.368
+"real de san vicente, el",1,981.0,25.036
+recas,3,5023.0,30.07
+robledo del mazo,1,252.0,24.157
+"romeral, el",1,541.0,25.649
+santa ana de pusa,1,342.0,24.111
+santa cruz de la zarza,3,4100.0,28.586
+santa olalla,1,3502.0,27.847
+segurilla,1,1378.0,31.075
+seseña,1,30165.0,35.534
+sonseca,1,11328.0,33.83
+talavera de la reina,22,84738.0,30.833
+tembleque,3,2009.0,28.204
+"toboso, el",2,1723.0,26.483
+toledo,63,86526.0,43.465
+torrijos,5,14099.0,32.647
+turleque,1,692.0,28.489
+velada,1,2907.0,28.718
+villacañas,10,9489.0,26.84
+"villa de don fadrique, la",2,3553.0,25.281
+villafranca de los caballeros,2,4897.0,29.238
+villaluenga de la sagra,3,4171.0,34.238
+villanueva de alcardete,3,2963.0,27.397
+villatobas,3,2858.0,27.024
+"viso de san juan, el",1,6164.0,30.961
+"yébenes, los",2,5753.0,33.449
+yuncler,2,5033.0,30.165
+yuncos,5,12831.0,32.471
+santo domingo caudilla,2,1229.0,27.354
+ademuz,2,1004.0,27.809
+atzeneta d'albaida,3,1169.0,31.158
+agullent,1,2416.0,31.085
+alaquàs,1,30022.0,32.487
+albaida,6,6235.0,32.317
+alboraya,6,,
+alcàsser,1,10676.0,32.99
+alzira,10,47335.0,35.088
+"alcúdia, l'",16,12402.0,34.788
+"alcúdia de crespins, l'",3,5438.0,30.22
+aldaia,12,34035.0,33.692
+alfafar,2,22131.0,30.768
+alfara del patriarca,2,3623.0,35.09
+algemesí,3,27968.0,33.425
+almàssera,2,7672.0,37.281
+almussafes,2,9057.0,41.569
+anna,2,2595.0,31.45
+aielo de malferit,1,4599.0,34.914
+bellreguard,1,4943.0,31.917
+benaguasil,5,12336.0,31.646
+benetússer,2,16322.0,32.367
+benifaió,5,12130.0,35.464
+benigánim,3,,
+benimodo,1,2316.0,33.686
+bétera,2,27584.0,48.123
+bicorp,1,560.0,26.766
+bocairent,2,4148.0,32.614
+buñol,6,9765.0,33.944
+burjassot,6,40634.0,32.145
+canals,1,13415.0,30.955
+carcaixent,1,21317.0,32.021
+càrcer,1,1806.0,32.163
+castielfabib,3,287.0,21.723
+cofrentes,2,1123.0,39.354
+corbera,1,3173.0,30.832
+cortes de pallás,1,758.0,29.434
+quart de poblet,14,26304.0,32.281
+cullera,9,24181.0,31.008
+chelva,2,1677.0,29.188
+xirivella,2,31745.0,31.558
+chiva,1,17245.0,38.986
+daimús,2,3419.0,33.782
+"eliana, l'",15,19597.0,53.888
+enguera,7,4769.0,31.682
+estivella,2,1631.0,36.272
+faura,2,3671.0,32.084
+fontanars dels alforins,1,947.0,33.197
+gandia,28,80095.0,32.25
+guadassuar,4,5992.0,35.687
+xeraco,3,6044.0,30.562
+xàtiva,4,30378.0,34.27
+llíria,1,25077.0,33.833
+manises,3,32273.0,33.137
+massalfassar,2,2653.0,39.815
+massamagrell,5,17216.0,35.037
+mislata,5,46153.0,35.06
+mogente/moixent,8,,
+moncada,1,21993.0,
+montserrat,1,9656.0,33.795
+montaverner,2,1626.0,32.636
+museros,1,6739.0,36.556
+oliva,10,26122.0,31.571
+ontinyent,4,36430.0,33.154
+paterna,16,74822.0,38.707
+picanya,5,11876.0,41.913
+picassent,3,22695.0,35.18
+polinyà de xúquer,1,2551.0,32.436
+"pobla de farnals, la",5,9076.0,34.769
+"pobla de vallbona, la",8,27056.0,40.279
+"pobla llarga, la",2,4569.0,31.608
+puig,1,,
+puçol,4,21298.0,41.098
+requena,8,20740.0,31.64
+riba roja de túria,1,24230.0,41.662
+rocafort,3,7753.0,63.336
+rótova,1,,
+sagunto/sagunt,14,,
+sedaví,2,10908.0,35.081
+silla,4,20117.0,34.016
+sinarcas,2,1153.0,32.39
+sueca,17,28480.0,33.341
+sumacàrcer,1,1042.0,30.143
+teresa de cofrentes,1,605.0,24.76
+torrebaja,1,391.0,30.628
+torrent,32,173.0,60.516
+torrent,32,173.0,36.023
+torrent,32,89401.0,60.516
+torrent,32,89401.0,36.023
+turís,1,7544.0,31.713
+valencia,241,,
+vallada,1,3079.0,32.615
+vinalesa,2,3531.0,37.173
+yátova,1,2242.0,31.74
+san antonio de benagéber,2,10630.0,55.391
+alcazarén,1,614.0,27.751
+aldeamayor de san martín,3,6163.0,38.925
+arroyo de la encomienda,6,22268.0,42.562
+campaspero,2,1004.0,33.594
+cigales,3,5364.0,33.556
+cistérniga,4,9281.0,38.365
+cogeces del monte,2,644.0,33.367
+laguna de duero,7,22907.0,39.823
+mayorga,2,1409.0,30.588
+medina del campo,9,20097.0,30.434
+medina de rioseco,6,4537.0,31.318
+mucientes,1,691.0,36.417
+nava del rey,4,1925.0,26.965
+olmedo,6,3564.0,32.375
+pedrajas de san esteban,3,3406.0,31.986
+peñafiel,6,5188.0,33.653
+portillo,7,2368.0,34.039
+rueda,3,1103.0,32.101
+simancas,1,5538.0,57.743
+tordesillas,2,8638.0,32.861
+torrelobatón,2,386.0,32.185
+tudela de duero,2,8786.0,35.027
+valdestillas,1,1612.0,33.367
+valladolid,112,300618.0,37.466
+zaratán,4,6383.0,39.329
+abadiño,1,7742.0,44.795
+abanto y ciérvana abanto zierbena,4,9409.0,41.418
+amorebieta etxano,8,19678.0,45.694
+arrigorriaga,7,11952.0,43.11
+bakio,2,2821.0,46.475
+barakaldo,51,101984.0,38.597
+basauri,16,40388.0,37.239
+berango,2,7647.0,56.604
+bermeo,12,17042.0,40.225
+berriz,2,4600.0,44.686
+bilbao,205,348089.0,44.813
+busturia,1,1656.0,42.009
+karrantza harana/valle de carranza,3,2711.0,34.354
+artea,1,748.0,53.748
+zeberio,1,1081.0,46.411
+dima,1,1505.0,48.092
+durango,3,29887.0,49.291
+ea,1,842.0,40.647
+etxebarri,6,11941.0,45.459
+elantxobe,1,349.0,35.76
+elorrio,7,7266.0,48.421
+ermua,2,15627.0,40.178
+galdakao,10,24774.0,45.218
+gamiz fika,1,1381.0,62.534
+gordexola,1,1711.0,49.576
+gorliz,1,6015.0,49.551
+getxo,30,75981.0,61.31
+güeñes,5,6771.0,39.679
+gernika lumo,5,17033.0,43.497
+ibarrangelu,1,680.0,44.968
+ispaster,1,712.0,46.268
+lanestosa,1,246.0,33.294
+leioa,16,32683.0,48.812
+lemoa,1,3586.0,42.035
+lekeitio,6,7163.0,41.327
+mañaria,1,531.0,46.447
+markina xemein,4,5078.0,45.291
+mundaka,2,1828.0,45.479
+mungia,9,17997.0,52.747
+muskiz,5,7361.0,42.851
+otxandio,1,1357.0,42.057
+ondarroa,1,8113.0,40.398
+urduña/orduña,6,4203.0,39.308
+orozko,1,2666.0,46.099
+sukarrieta,1,353.0,48.355
+plentzia,4,4390.0,49.45
+portugalete,8,44766.0,39.248
+valle de trápaga trapagaran,7,11898.0,39.042
+lezama,1,2459.0,54.841
+santurtzi,14,46247.0,38.832
+ortuella,1,8629.0,37.296
+sestao,11,28228.0,34.327
+sopelana,8,,
+sopuerta,1,2765.0,41.928
+trucios turtzioz,1,515.0,39.365
+urduliz,2,5711.0,47.991
+balmaseda,1,7633.0,37.505
+areatza,2,1287.0,41.428
+igorre,3,4330.0,43.194
+zaldibar,2,3027.0,43.65
+zalla,6,8316.0,43.063
+derio,8,7168.0,45.542
+erandio,16,24662.0,38.314
+loiu,4,2359.0,60.958
+sondika,1,4587.0,50.401
+zamudio,7,3314.0,45.555
+alonsotegi,1,3020.0,37.533
+zierbena,1,1493.0,53.783
+benavente,11,17246.0,29.015
+bermillo de sayago,4,1026.0,28.923
+ferreras de abajo,2,451.0,27.757
+galende,5,1024.0,26.884
+lubián,1,290.0,29.226
+mombuey,4,386.0,29.7
+morales del vino,4,3085.0,38.796
+morales de valverde,1,150.0,26.344
+moralina,2,219.0,32.991
+palacios de sanabria,1,230.0,28.194
+puebla de sanabria,10,1366.0,33.535
+rabanales,1,488.0,28.603
+san cristóbal de entreviñas,2,1318.0,27.352
+santa cristina de la polvorosa,1,1027.0,28.952
+santa croya de tera,1,260.0,30.612
+santa maría de la vega,1,290.0,28.645
+santibáñez de tera,1,358.0,29.434
+santibáñez de vidriales,3,844.0,27.234
+sanzoles,1,466.0,24.639
+tábara,2,748.0,30.508
+villalpando,5,1399.0,29.32
+villanueva del campo,2,761.0,26.092
+villardeciervos,1,392.0,32.543
+villarrín de campos,1,415.0,30.92
+zamora,21,59506.0,32.824
+aguarón,2,599.0,28.655
+ainzón,2,1043.0,34.116
+alagón,5,7450.0,36.418
+alcalá de ebro,1,243.0,32.053
+alhama de aragón,2,925.0,29.78
+almonacid de la cuba,1,233.0,28.896
+"almunia de doña godina, la",2,7937.0,36.072
+aniñón,1,683.0,27.887
+ateca,3,1732.0,30.769
+azuara,1,537.0,29.669
+bárboles,2,286.0,33.614
+boquiñeni,3,751.0,33.79
+bujaraloz,2,953.0,38.403
+"burgo de ebro, el",2,2704.0,37.929
+cabañas de ebro,1,481.0,38.675
+calatorao,1,2906.0,32.223
+caspe,4,10432.0,30.926
+cosuenda,2,329.0,30.119
+cuarte de huerva,3,15112.0,46.472
+ejea de los caballeros,2,17133.0,34.489
+fabara,1,1047.0,30.426
+fayón,1,430.0,26.438
+fuentes de ebro,4,4631.0,37.82
+gallur,4,2603.0,32.731
+lécera,1,599.0,27.298
+mallén,2,2951.0,32.943
+mequinenza,3,2232.0,37.905
+monegrillo,2,380.0,36.708
+moyuela,1,227.0,32.93
+muel,2,1474.0,36.52
+"muela, la",5,6564.0,38.226
+nuévalos,1,306.0,31.521
+pedrola,5,3766.0,38.285
+pina de ebro,1,2446.0,36.853
+"puebla de alfindén, la",11,6426.0,38.796
+remolinos,1,1023.0,37.456
+ricla,2,2949.0,31.819
+san mateo de gállego,2,3409.0,39.526
+sos del rey católico,1,585.0,36.396
+tarazona,2,10803.0,34.239
+torres de berrellén,1,1506.0,36.761
+used,1,260.0,33.057
+utebo,9,19022.0,39.323
+vera de moncayo,1,315.0,37.328
+villanueva de gállego,2,4814.0,42.455
+zaragoza,255,686986.0,39.345
+zuera,6,8709.0,39.376
+ceuta,13,83229.0,44.907
+melilla,4,85811.0,45.989
