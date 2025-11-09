@@ -266,3 +266,15 @@ st.markdown("""
         </div>
     </div>
 """, unsafe_allow_html=True)
+
+
+# ----------------------- 3 OFICINAS -----------------------
+
+#st.header('Top 3 Municipios Prioritarios para Nuevas Sucursales Bancarias en España')
+
+
+        # Aquí gráfico que represente los 3 municipios prioritarios + COL2 TABLA NOMBRES, POBLACION, SCORE TOTAL
+
+
+
+# ----------------------- parte 2 -----------------------
