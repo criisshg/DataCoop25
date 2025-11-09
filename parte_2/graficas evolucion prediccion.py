@@ -2,9 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar los archivos CSV
-df_2026 = pd.read_csv(r"C:\Users\clara\Documentos\3º GED\graficas predicciones\municipios_priorizados_2026.csv")
-df_poblacion = pd.read_csv(r"C:\Users\clara\Documentos\3º GED\graficas predicciones\municipios_predicciones.csv")
-df_renta = pd.read_csv(r"C:\Users\clara\Documentos\3º GED\graficas predicciones\prediccion_renta.csv")
+df_2026 = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\predecir2026\municipios_priorizados_2026.csv")
+df_poblacion = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\datosfuturos\municipios_predicciones.csv")
+df_renta = pd.read_csv(r"C:\Users\emmah\OneDrive\Escritorio\UNI\TERCER\DataCoop25\parte_2\datosfuturos\prediccion_renta.csv")
 
 # Seleccionar los 10 municipios con mayor score en 2026
 top_municipios = df_2026.sort_values(by="score_total", ascending=False).head(10)
