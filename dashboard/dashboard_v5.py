@@ -238,49 +238,90 @@ with col1:
     - **Mayor distancia al banco más cercano** → más necesidad de servicio financiero.
     """)
 
+    # Crear tabla de municipios seleccionados
+    data = {
+        "Municipio": ["Villanueva de la Serena", "Vimianzo", "Viator"],
+        "Provincia": ["Badajoz", "A Coruña", "Almería"],
+        "Población": [25500, 7100, 6000],
+        "Renta Media (€)": [21500, 17800, 19000],
+        "Precio Alquiler (€/m²)": [6.2, 5.8, 7.0],
+        "Distancia al Banco más Cercano (km)": [4.5, 6.2, 3.8],
+        "Score Final": [0.812, 0.785, 0.743]
+    }
+
+    df = pd.DataFrame(data)
+
+    # Título
+    st.markdown("### 🏘️ Municipios Seleccionados para Análisis Detallado")
+
+    # Mostrar tabla estilizada
+    st.dataframe(
+        df.style.format({
+            "Renta Media (€)": "{:,.0f}",
+            "Precio Alquiler (€/m²)": "{:.1f}",
+            "Distancia al Banco más Cercano (km)": "{:.1f}",
+            "Score Final": "{:.3f}"
+        })
+    )
+
 with col2:
+    # statement de cierre
+    # Usar Markdown con estilo CSS personalizado
+    st.markdown("""
+        <style>
+            .custom-box {
+                background-color: #1E3A8A;  /* Azul oscuro */
+                color: white;
+                padding: 15px;
+                border-radius: 15px;
+                font-size: 19px;
+                font-weight: bold;
+                margin-bottom: 20px;
+                text-align: center;  /* Centra el texto dentro del recuadro */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100px;  /* Ajusta la altura del recuadro */
+            }
+
+            .custom-box-container {
+                display: flex;
+                justify-content: center;  /* Centra el recuadro en la página */
+                align-items: center;
+                height: 100%;  /* Ajusta la altura de la pantalla */
+            }
+        </style>
+
+        <div class="custom-box-container">
+            <div class="custom-box">
+                Zonas más calientes = Densidad de potencial para la expansión de sucursales.
+            </div>
+        </div>
+    """, unsafe_allow_html=True)
+
     # Mostrar el contenido HTML en Streamlit
     st.components.v1.html(html_file_path_density, height=600) 
 
-# statement de cierre
-# Usar Markdown con estilo CSS personalizado
-st.markdown("""
-    <style>
-        .custom-box {
-            background-color: #1E3A8A;  /* Azul oscuro */
-            color: white;
-            padding: 15px;
-            border-radius: 15px;
-            font-size: 19px;
-            font-weight: bold;
-            margin-bottom: 20px;
-            text-align: center;  /* Centra el texto dentro del recuadro */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100px;  /* Ajusta la altura del recuadro */
-        }
-
-        .custom-box-container {
-            display: flex;
-            justify-content: center;  /* Centra el recuadro en la página */
-            align-items: center;
-            height: 100%;  /* Ajusta la altura de la pantalla */
-        }
-    </style>
-
-    <div class="custom-box-container">
-        <div class="custom-box">
-            Zonas más calientes = Densidad de potencial para la expansión de sucursales.
-        </div>
-    </div>
-""", unsafe_allow_html=True)
 
 
 # ----------------------- 3 OFICINAS -----------------------
 
-#st.header('Top 3 Municipios Prioritarios para Nuevas Sucursales Bancarias en España')
+st.header('Top 3 Municipios Prioritarios para Nuevas Sucursales Bancarias en España')
 
+
+st.markdown("""
+    <a href="https://datacoop-hackathon-caixa.streamlit.app/" target="_blank">
+        <button style="
+            background-color:#1E3A8A;
+            color:white;
+            padding:10px 20px;
+            border:none;
+            border-radius:8px;
+            font-size:16px;
+            cursor:pointer;
+        ">Abrir Dashboard en Streamlit Cloud</button>
+    </a>
+    """, unsafe_allow_html=True)
 
         # Aquí gráfico que represente los 3 municipios prioritarios + COL2 TABLA NOMBRES, POBLACION, SCORE TOTAL
 
@@ -394,3 +435,4 @@ with col2:
 with col3:
     st.subheader("Año 2030")
     st.components.v1.html(heatmap2030_html, height=600)
+
